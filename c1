@@ -3,10 +3,11 @@ fullName:
 ChineseName:
 Composer: 
 Opus: 
+Date: 1905
 Others: 
 
 
-#
+# 1
 name: Swan Lake
 fullName: No.13d, Dances of the Swans
 ChineseName: 四小天鹅
@@ -15,24 +16,49 @@ Opus: Op.20
 Others: 
 
 
-
-#
+# 2
 name: Swan Lake
-fullName: No. 09 Finale: Sujet, Andante
-ChineseName:
-Composer: 
+fullName: No. 10 Scène: Moderato
+ChineseName: 
+Composer: Tchaikovsky
+Opus: Op.20
+Others: 第二幕的开始
+
+
+# 3
+name: The Carnival
+fullName: The Carnival of the Animals, the Swan
+ChineseName: 疯狂动物节，天鹅
+Composer: Camille Saint-Saëns
 Opus: 
 Others: 
 
-
-#
-name: 
+# 4
+name: The seasons, June
 fullName: 
-ChineseName:
-Composer: 
-Opus: 
+ChineseName: 四季
+Composer: Tchaikovsky
+Opus: Op.37b VI
+Others: 据说俄罗斯旧历只有11个月
+
+# 5
+name: Liebesleid
+fullName: Liebesleid (Love's Sorrow)
+ChineseName: 爱的忧伤
+Composer: Fritz Kreisler
+Opus: No. 2 of Alt-Wiener Tanzweisen
+Date: 1905
 Others: 
 
+# 6
+name: Méditation
+fullName: Méditation (Thaïs)
+ChineseName: 沉思曲
+Composer: Jules Massenet
+Opus: 
+Date: 1894
+Others: 
+是歌剧《泰伊思》（Thais）第二幕第一场与第二场中间所奏的间奏曲，故又称为《泰伊思冥想曲》或《广阔的天空》
 
 ###
 #
@@ -42,3 +68,22 @@ ChineseName:
 Composer: Tchaikovsky
 Opus: Op.20
 Others: 
+
+#
+name: The seasons, October
+fullName: 
+ChineseName: 四季
+Composer: Tchaikovsky
+Opus: Op.37b X
+Others: 
+Others: 
+
+#
+name: Liebesfreud
+fullName: Liebesfreud (Love's Joy)
+ChineseName: 爱的喜悦
+Composer: Fritz Kreisler
+Opus: No. 1 of Alt-Wiener Tanzweisen
+Date: 1905
+Others: 
+
