@@ -28,4 +28,89 @@
       'uri': 'beethoven-favourite-piano-sonatas-mw0001340434', 
       'title': 'Beethoven: Favourite Piano Sonatas'
     },
+    {
+      'catalogue': '442 287-2',
+      'uri': 'favourite-violin-concertos-mw0001821683', 
+      'title': 'Favourite Violin Concertos'
+    },
+    {
+      'catalogue': '442 293-2',
+      'uri': 'bach-the-6-cello-suites-mw0001939312', 
+      'title': 'Bach: The 6 Cello Suites'
+    },
+    {
+      'catalogue': '442 577-2',
+      'uri': 'beethoven-complete-concertos-vol-1-mw0001381921', 
+      'title': 'Beethoven: Complete Concertos, Vol. 1'
+    },
+    {
+      'catalogue': '442 580-2',
+      'uri': 'beethoven-complete-concertos-vol-2-mw0001399662', 
+      'title': 'Beethoven: Complete Concertos Vol. 2'
+    },
+    {
+      'catalogue': '442 589-2',
+      'uri': 'brahms-the-late-piano-music-handel-and-paganini-variations-mw0001823542', 
+      'title': 'Brahms: The Late Piano Music; Handel and Paganini Variations'
+    },
+    {
+      'catalogue': '442 608-2',
+      'uri': 'the-best-of-saint-saëns-mw0001940418', 
+      'title': 'The Best of Saint-Saëns'
+    },
+    {
+      'catalogue': '446 145-2',
+      'uri': 'the-best-of-chopin-mw0001366025', 
+      'title': 'The Best of Chopin'
+    },
+    {
+      'catalogue': '446 163-2',
+      'uri': 'schubert-the-last-four-quartets-mw0001808107', 
+      'title': 'Schubert: The Last Four Quartets'
+    },
+    {
+      'catalogue': '446 166-2',
+      'uri': 'tchaikovsky-the-sleeping-beauty-mw0001532518', 
+      'title': 'Tchaikovsky: The Sleeping Beauty'
+    },
+    {
+      'catalogue': '454 247-2',
+      'uri': 'beethoven-complete-music-for-flute-mw0001352188', 
+      'title': 'Beethoven: Complete Music for Flute'
+    },
+    {
+      'catalogue': '456 330-2',
+      'uri': 'rossini-the-complete-string-sonatasl-mendelssohn-octet-for-strings-op-20-wolf-italian-serenade-bottesini-grand-duo-concertant-mw0001821735', 
+      'title': 'Rossini: The Complete String Sonatasl; Mendelssohn: Octet for Strings, Op. 20; Wolf: Italian Serenade; Bottesini: Grand Duo Concertant'
+    },
+    {
+      'catalogue': '462 865-2',
+      'uri': 'the-best-of-paganini-mw0001941832', 
+      'title': 'The Best of Paganini'
+    },
+    {
+      'catalogue': '462 868-2',
+      'uri': 'the-best-of-weber-mw0001818318', 
+      'title': 'The Best of Weber'
+    },
+    {
+      'catalogue': '464 040-2',
+      'uri': 'arnold-schoenberg-gurrelieder-the-two-chamber-symphonies-mw0001833502', 
+      'title': 'Arnold Schoenberg: Gurrelieder; The Two Chamber Symphonies'
+    },
+    {
+      'catalogue': '',
+      'uri': '', 
+      'title': ''
+    },
+    {
+      'catalogue': '',
+      'uri': '', 
+      'title': ''
+    },
+    {
+      'catalogue': '',
+      'uri': '', 
+      'title': ''
+    },
 ]}
