@@ -1,0 +1,31 @@
+{ 
+  'source': 'allmusic',
+  'albums': [
+    {
+      'upc': '825646233328',
+      'catalogue': '2564 62333-2',
+      'uri':'mozart-250th-anniversary-edition-complete-violin-concertos-concertos-for-winds-mw0001946089', 
+      'title': 'Mozart 250th Anniversary Edition: Complete Violin Concertos, Concertos for Winds'
+    },
+    {
+      'upc': '825646233229',
+      'catalogue': '2564 62332-2',
+      'uri': 'mozart-complete-piano-concertos-250th-anniversary-edition-mw0001865765',
+      'title': 'Mozart: Complete Piano Concertos (250th Anniversary Edition)'
+    },
+    {
+      'catalogue': '438 320-2',
+      'uri': 'brahms-piano-concertos-complete-overtures-complete-haydn-variations-mw0001883009',
+      'title': 'Brahms: Piano Concertos (complete); Overtures (complete); Haydn Variations'
+    },
+    {
+      'catalogue': '438 374-2',
+      'uri':'beethoven-the-late-piano-sonatas-mw0001360411', 
+      'title': 'Beethoven: The Late Piano Sonatas'
+    },
+    {
+      'catalogue': '438 730-2',
+      'uri': 'beethoven-favourite-piano-sonatas-mw0001340434', 
+      'title': 'Beethoven: Favourite Piano Sonatas'
+    },
+]}
