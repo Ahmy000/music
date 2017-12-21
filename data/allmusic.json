@@ -96,17 +96,22 @@
     {
       'catalogue': '464 040-2',
       'uri': 'arnold-schoenberg-gurrelieder-the-two-chamber-symphonies-mw0001833502', 
-      'title': 'Arnold Schoenberg: Gurrelieder; The Two Chamber Symphonies'
+      'title': 'Arnold Schoenberg: Gurrelieder; The Two Chamber Symphonies',
     },
     {
-      'catalogue': '',
-      'uri': '', 
-      'title': ''
+      'catalogue': '464-046-2',
+      'uri': 'schoenberg-the-string-quartets-mw0001819874', 
+      'title': 'Schoenberg: The String Quartets'
     },
     {
-      'catalogue': '',
-      'uri': '', 
-      'title': ''
+      'catalogue': '464 052-2',
+      'uri': 'albinoni-complete-concertos-op5-7-mw0001428399', 
+      'title': 'Albinoni: Complete Concertos Op.5 & 7'
+    },
+    {
+      'catalogue': '475 621-2',
+      'uri': 'bach-6-solo-suites-bwv-1007-1012-mw0001864371', 
+      'title': 'Bach: 6 Solo Suites BWV 1007-1012'
     },
     {
       'catalogue': '',
