@@ -72,8 +72,8 @@ def parseAll(docs):
 #end
 
 
-def fetchDoc(album):
-  url = '/'.join([base_url, album, tail_url])
+def fetchDoc(uri):
+  url = '/'.join([base_url, uri, tail_url])
   headers = {}
   headers['Accept-Language'] = 	'en-us'
   headers['Accept-Encoding'] = 'gzip, deflate' 
@@ -82,11 +82,8 @@ def fetchDoc(album):
   print(res.status_code)
   return res.text
 
-if __name__ == "__main__":
-  '''
-  '''
-  album = sys.argv[1]
-  doc = fetchDoc(album)
+def fetchAlbumInfo(album):
+  doc = fetchDoc(album['uri'])
   doc = doc.replace("&amp;", "&")
   doc = doc.replace("&", "&amp;")
   tree = etree.fromstring(doc) 
@@ -94,4 +91,26 @@ if __name__ == "__main__":
 
   with open(album + ".json", 'w') as outfile:
     json.dump(data, outfile, indent=4, sort_keys=False)
+
+def parseAlbumInfo(album):
+  upc = album.xpath("upc")[0].text.strip()
+  catalogue = album.xpath("catalogue")[0].text.strip()
+  uri = album.xpath("uri")[0].text.strip()
+  title = album.xpath("title")[0].text.strip()
+  return {"upc": upc, "title": title, "uri": uri, "catalogue": catalogue}
+#end
+
+
+if __name__ == "__main__":
+  '''
+  '''
+  with open(sys.argv[1]) as data_file:    
+    albums = json.load(data_file)
+
+    for meta in albums:
+      print(meta)
+      #fetchAlbumInfo(meta['uri'])
+      break
+
+
 
