@@ -96,7 +96,7 @@
     {
       'catalogue': '464 040-2',
       'uri': 'arnold-schoenberg-gurrelieder-the-two-chamber-symphonies-mw0001833502', 
-      'title': 'Arnold Schoenberg: Gurrelieder; The Two Chamber Symphonies',
+      'title': 'Arnold Schoenberg: Gurrelieder; The Two Chamber Symphonies'
     },
     {
       'catalogue': '464-046-2',
@@ -112,10 +112,5 @@
       'catalogue': '475 621-2',
       'uri': 'bach-6-solo-suites-bwv-1007-1012-mw0001864371', 
       'title': 'Bach: 6 Solo Suites BWV 1007-1012'
-    },
-    {
-      'catalogue': '',
-      'uri': '', 
-      'title': ''
-    },
+    }
 ]}
