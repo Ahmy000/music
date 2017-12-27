@@ -1,0 +1,121 @@
+{
+    "title": "--", 
+    "composer": "--", 
+    "label": "--", 
+    "performer": "--", 
+    "release": "--", 
+    "discs": [
+        {
+            "title": "Track Listing", 
+            "performances": [
+                {
+                    "title": "Suite alg\u00e9rienne, for orchestra in C major, Op. 60", 
+                    "movements": [
+                        {
+                            "track": "1", 
+                            "title": "Marche militaire fran\u00e7aise", 
+                            "durationR": "4:58", 
+                            "duration": 298, 
+                            "start": 0
+                        }, 
+                        {
+                            "track": "2", 
+                            "title": "Havanaise, in E major for violin & piano (or orchestra), Op. 83", 
+                            "durationR": "9:56", 
+                            "duration": 596, 
+                            "start": 298
+                        }, 
+                        {
+                            "track": "3", 
+                            "title": "Danse macabre, symphonic poem in G minor, Op. 40", 
+                            "durationR": "7:11", 
+                            "duration": 431, 
+                            "start": 894
+                        }, 
+                        {
+                            "track": "4", 
+                            "title": "The Swan (from \"Carnival of the Animals\"), original (for 2 pianos & ensemble) and arrangements", 
+                            "durationR": "3:10", 
+                            "duration": 190, 
+                            "start": 1325
+                        }, 
+                        {
+                            "track": "5", 
+                            "title": "Introduction and Rondo Capriccioso, for violin & orchestra in A minor, Op. 28", 
+                            "durationR": "9:04", 
+                            "duration": 544, 
+                            "start": 1515
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Piano Trio No. 2 in E minor, Op. 92", 
+                    "movements": [
+                        {
+                            "track": "6", 
+                            "title": "Andante con moto", 
+                            "durationR": "4:38", 
+                            "duration": 278, 
+                            "start": 2059
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Samson et Dalila, opera in 3 acts, Op. 47", 
+                    "movements": [
+                        {
+                            "track": "7", 
+                            "title": "Bacchanale", 
+                            "durationR": "8:04", 
+                            "duration": 484, 
+                            "start": 2337
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Piano Concerto No. 2 in G minor, Op. 22", 
+                    "movements": [
+                        {
+                            "track": "8", 
+                            "title": "Allegro scherzando", 
+                            "durationR": "6:07", 
+                            "duration": 367, 
+                            "start": 2821
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Violin Concerto No. 3 in B minor, Op. 61", 
+                    "movements": [
+                        {
+                            "track": "9", 
+                            "title": "Andantino quasi allegretto", 
+                            "durationR": "7:40", 
+                            "duration": 460, 
+                            "start": 3188
+                        }, 
+                        {
+                            "track": "10", 
+                            "title": "Le Rouet d'Omphale, symphonic poem in A major, Op. 31", 
+                            "durationR": "7:52", 
+                            "duration": 472, 
+                            "start": 3648
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Symphony No. 3 in C minor (\"Organ\"), Op. 78", 
+                    "movements": [
+                        {
+                            "track": "11", 
+                            "title": "Presto", 
+                            "durationR": "7:45", 
+                            "duration": 465, 
+                            "start": 4120
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

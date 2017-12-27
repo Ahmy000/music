@@ -1,0 +1,189 @@
+{
+    "title": "--", 
+    "composer": "--", 
+    "label": "--", 
+    "performer": "--", 
+    "release": "--", 
+    "discs": [
+        {
+            "title": "Track Listing - Disc 1", 
+            "performances": [
+                {
+                    "title": "Piano Sonata No.27 in E minor, Op.90", 
+                    "movements": [
+                        {
+                            "track": "1", 
+                            "title": "1. Mit Lebhaftigkeit und durchaus mit Empfindung und Ausdruck", 
+                            "durationR": "5:49", 
+                            "duration": 349, 
+                            "start": 0
+                        }, 
+                        {
+                            "track": "2", 
+                            "title": "2. Nicht zu geschwind und sehr singbar vorgetragen", 
+                            "durationR": "8:17", 
+                            "duration": 497, 
+                            "start": 349
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Piano Sonata No.28 in A, Op.101", 
+                    "movements": [
+                        {
+                            "track": "3", 
+                            "title": "1. Etwas lebhaft und mit der innigsten Empfindung (Allegretto ma non troppo)", 
+                            "durationR": "4:14", 
+                            "duration": 254, 
+                            "start": 846
+                        }, 
+                        {
+                            "track": "4", 
+                            "title": "2. Lebhaft, marschm\u00e4\u00dfig (Vivace alla marcia)", 
+                            "durationR": "6:14", 
+                            "duration": 374, 
+                            "start": 1100
+                        }, 
+                        {
+                            "track": "5", 
+                            "title": "3. Langsam und sehnsuchtsvoll (Adagio ma non troppo, con affetto)", 
+                            "durationR": "2:59", 
+                            "duration": 179, 
+                            "start": 1474
+                        }, 
+                        {
+                            "track": "6", 
+                            "title": "4. Geschwind, doch nicht zu sehr und mit Entschlossen- heit (Allegro)", 
+                            "durationR": "8:14", 
+                            "duration": 494, 
+                            "start": 1653
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Piano Sonata No.30 in E, Op.109", 
+                    "movements": [
+                        {
+                            "track": "7", 
+                            "title": "1. Vivace, ma non troppo - Adagio espressivo - Tempo I", 
+                            "durationR": "3:55", 
+                            "duration": 235, 
+                            "start": 2147
+                        }, 
+                        {
+                            "track": "8", 
+                            "title": "2. Prestissimo", 
+                            "durationR": "2:30", 
+                            "duration": 150, 
+                            "start": 2382
+                        }, 
+                        {
+                            "track": "9", 
+                            "title": "3. Gesangvoll, mit innigster Empfindung (Andante molto cantabile ed espressivo)", 
+                            "durationR": "13:36", 
+                            "duration": 816, 
+                            "start": 2532
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Piano Sonata No.31 in A flat, Op.110", 
+                    "movements": [
+                        {
+                            "track": "10", 
+                            "title": "1. Moderato cantabile molto espressivo", 
+                            "durationR": "6:49", 
+                            "duration": 409, 
+                            "start": 3348
+                        }, 
+                        {
+                            "track": "11", 
+                            "title": "2. Allegro molto", 
+                            "durationR": "1:43", 
+                            "duration": 103, 
+                            "start": 3757
+                        }, 
+                        {
+                            "track": "12", 
+                            "title": "3. Adagio ma non troppo", 
+                            "durationR": "3:45", 
+                            "duration": 225, 
+                            "start": 3860
+                        }, 
+                        {
+                            "track": "13", 
+                            "title": "3b. Fuga (Allegro ma non troppo)", 
+                            "durationR": "6:52", 
+                            "duration": 412, 
+                            "start": 4085
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "title": "Track Listing - Disc 2", 
+            "performances": [
+                {
+                    "title": "Piano Sonata No.29 in B flat, Op.106 -\"Hammerklavier\"", 
+                    "movements": [
+                        {
+                            "track": "1", 
+                            "title": "1. Allegro", 
+                            "durationR": "11:42", 
+                            "duration": 702, 
+                            "start": 0
+                        }, 
+                        {
+                            "track": "2", 
+                            "title": "2. Scherzo (Assai vivace - Presto - Prestissimo - Tempo I)", 
+                            "durationR": "2:39", 
+                            "duration": 159, 
+                            "start": 702
+                        }, 
+                        {
+                            "track": "3", 
+                            "title": "3. Adagio sostenuto", 
+                            "durationR": "19:37", 
+                            "duration": 1177, 
+                            "start": 861
+                        }, 
+                        {
+                            "track": "4", 
+                            "title": "4. Largo - Allegro risoluto", 
+                            "durationR": "12:16", 
+                            "duration": 736, 
+                            "start": 2038
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Piano Sonata No.32 in C minor, Op.111", 
+                    "movements": [
+                        {
+                            "track": "5", 
+                            "title": "1a. Maestoso -", 
+                            "durationR": "1:51", 
+                            "duration": 111, 
+                            "start": 2774
+                        }, 
+                        {
+                            "track": "6", 
+                            "title": "1b. Allegro con brio ed appassionato", 
+                            "durationR": "7:10", 
+                            "duration": 430, 
+                            "start": 2885
+                        }, 
+                        {
+                            "track": "7", 
+                            "title": "2. Arietta (Adagio molto semplice e cantabile)", 
+                            "durationR": "17:20", 
+                            "duration": 1040, 
+                            "start": 3315
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

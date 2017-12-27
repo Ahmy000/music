@@ -1,0 +1,202 @@
+{
+    "title": "--", 
+    "composer": "--", 
+    "label": "--", 
+    "performer": "--", 
+    "release": "--", 
+    "discs": [
+        {
+            "title": "Track Listing - Disc 1", 
+            "performances": [
+                {
+                    "title": "Sonate a quattro (6) for 2 violins, cello & bass, QR i/1", 
+                    "movements": [
+                        {
+                            "track": "1", 
+                            "title": "Sonata a quattro No 01 in G. 1. Moderato", 
+                            "durationR": "5:43", 
+                            "duration": 343, 
+                            "start": 0
+                        }, 
+                        {
+                            "track": "2", 
+                            "title": "Sonata a quattro No 01 in G. 2. Andantino", 
+                            "durationR": "4:45", 
+                            "duration": 285, 
+                            "start": 343
+                        }, 
+                        {
+                            "track": "3", 
+                            "title": "Sonata a quattro No 01 in G. 3. Allegro", 
+                            "durationR": "2:52", 
+                            "duration": 172, 
+                            "start": 628
+                        }, 
+                        {
+                            "track": "4", 
+                            "title": "Sonata a quattro No 02 in A. 1. Allegro", 
+                            "durationR": "7:29", 
+                            "duration": 449, 
+                            "start": 800
+                        }, 
+                        {
+                            "track": "5", 
+                            "title": "Sonata a quattro No 02 in A. 2. Andantino", 
+                            "durationR": "3:43", 
+                            "duration": 223, 
+                            "start": 1249
+                        }, 
+                        {
+                            "track": "6", 
+                            "title": "Sonata a quattro No 02 in A. 3. Allegro", 
+                            "durationR": "2:20", 
+                            "duration": 140, 
+                            "start": 1472
+                        }, 
+                        {
+                            "track": "7", 
+                            "title": "Sonata a quattro No 03 in C. 1. Allegro", 
+                            "durationR": "4:18", 
+                            "duration": 258, 
+                            "start": 1612
+                        }, 
+                        {
+                            "track": "8", 
+                            "title": "Sonata a quattro No 03 in C. 2. Andante", 
+                            "durationR": "4:11", 
+                            "duration": 251, 
+                            "start": 1870
+                        }, 
+                        {
+                            "track": "9", 
+                            "title": "Sonata a quattro No 03 in C. 3. Moderato", 
+                            "durationR": "2:47", 
+                            "duration": 167, 
+                            "start": 2121
+                        }, 
+                        {
+                            "track": "10", 
+                            "title": "Sonata a quattro No 04 in B flat. 1. Allegro vivace", 
+                            "durationR": "7:01", 
+                            "duration": 421, 
+                            "start": 2288
+                        }, 
+                        {
+                            "track": "11", 
+                            "title": "Sonata a quattro No 04 in B flat. 2. Andantino", 
+                            "durationR": "4:07", 
+                            "duration": 247, 
+                            "start": 2709
+                        }, 
+                        {
+                            "track": "12", 
+                            "title": "Sonata a quattro No 04 in B flat. 3. Allegretto", 
+                            "durationR": "2:55", 
+                            "duration": 175, 
+                            "start": 2956
+                        }, 
+                        {
+                            "track": "13", 
+                            "title": "Sonata a quattro No 05 in E flat. 1. Allegro vivace", 
+                            "durationR": "7:46", 
+                            "duration": 466, 
+                            "start": 3131
+                        }, 
+                        {
+                            "track": "14", 
+                            "title": "Sonata a quattro No 05 in E flat. 2. Andantino", 
+                            "durationR": "3:52", 
+                            "duration": 232, 
+                            "start": 3597
+                        }, 
+                        {
+                            "track": "15", 
+                            "title": "Sonata a quattro No 05 in E flat. 3. Allegretto", 
+                            "durationR": "3:34", 
+                            "duration": 214, 
+                            "start": 3829
+                        }, 
+                        {
+                            "track": "16", 
+                            "title": "Italian Serenade, for string quartet in G major", 
+                            "durationR": "7:28", 
+                            "duration": 448, 
+                            "start": 4043
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "title": "Track Listing - Disc 2", 
+            "performances": [
+                {
+                    "title": "Sonate a quattro (6) for 2 violins, cello & bass, QR i/1", 
+                    "movements": [
+                        {
+                            "track": "1", 
+                            "title": "Sonata a quattro No 06 in D. 1. Allegro spiritoso", 
+                            "durationR": "7:40", 
+                            "duration": 460, 
+                            "start": 0
+                        }, 
+                        {
+                            "track": "2", 
+                            "title": "Sonata a quattro No 06 in D. 2. Andante assai", 
+                            "durationR": "2:35", 
+                            "duration": 155, 
+                            "start": 460
+                        }, 
+                        {
+                            "track": "3", 
+                            "title": "Sonata a quattro No 06 in D. 3. Tempesta. Allegro", 
+                            "durationR": "5:33", 
+                            "duration": 333, 
+                            "start": 615
+                        }, 
+                        {
+                            "track": "4", 
+                            "title": "Gran Duo Concertante for violin (or clarinet), double-bass & orchestra (or piano)", 
+                            "durationR": "18:50", 
+                            "duration": 1130, 
+                            "start": 948
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Octet for strings in E flat major, Op. 20", 
+                    "movements": [
+                        {
+                            "track": "5", 
+                            "title": "1. Allegro moderato, ma con fuoco", 
+                            "durationR": "14:10", 
+                            "duration": 850, 
+                            "start": 2078
+                        }, 
+                        {
+                            "track": "6", 
+                            "title": "2. Andante", 
+                            "durationR": "7:12", 
+                            "duration": 432, 
+                            "start": 2928
+                        }, 
+                        {
+                            "track": "7", 
+                            "title": "3. Scherzo. Allegro leggierissimo", 
+                            "durationR": "4:42", 
+                            "duration": 282, 
+                            "start": 3360
+                        }, 
+                        {
+                            "track": "8", 
+                            "title": "4. Presto", 
+                            "durationR": "14:09", 
+                            "duration": 849, 
+                            "start": 3642
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

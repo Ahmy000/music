@@ -1,0 +1,202 @@
+{
+    "title": "--", 
+    "composer": "--", 
+    "label": "--", 
+    "performer": "--", 
+    "release": "--", 
+    "discs": [
+        {
+            "title": "Track Listing - Disc 1", 
+            "performances": [
+                {
+                    "title": "Gurrelieder, oratorio for 5 soloists, reciter, chorus & orchestra", 
+                    "movements": [
+                        {
+                            "track": "2", 
+                            "title": "Pt. 1, Orchestral Prelude", 
+                            "durationR": "6:55", 
+                            "duration": 415, 
+                            "start": 1239
+                        }, 
+                        {
+                            "track": "3", 
+                            "title": "Pt. 1, Nun d\u00e4mpft die D\u00e4mm 'rung", 
+                            "durationR": "3:27", 
+                            "duration": 207, 
+                            "start": 1654
+                        }, 
+                        {
+                            "track": "4", 
+                            "title": "Pt. 1, O, wenn des Mondes Strahlen", 
+                            "durationR": "3:14", 
+                            "duration": 194, 
+                            "start": 1861
+                        }, 
+                        {
+                            "track": "5", 
+                            "title": "Pt. 1, Ro\u00df! Mein Ro\u00df!", 
+                            "durationR": "3:11", 
+                            "duration": 191, 
+                            "start": 2055
+                        }, 
+                        {
+                            "track": "6", 
+                            "title": "Pt. 1, Sterne jubeln", 
+                            "durationR": "2:19", 
+                            "duration": 139, 
+                            "start": 2246
+                        }, 
+                        {
+                            "track": "7", 
+                            "title": "Pt. 1, So tanzen die Engel vor Gottes Thron nicht", 
+                            "durationR": "2:01", 
+                            "duration": 121, 
+                            "start": 2385
+                        }, 
+                        {
+                            "track": "8", 
+                            "title": "Pt. 1, Nun sag ich dir zum ersten Mal", 
+                            "durationR": "3:43", 
+                            "duration": 223, 
+                            "start": 2506
+                        }, 
+                        {
+                            "track": "9", 
+                            "title": "Pt. 1, Es ist Mitternachtszeit", 
+                            "durationR": "5:01", 
+                            "duration": 301, 
+                            "start": 2729
+                        }, 
+                        {
+                            "track": "10", 
+                            "title": "Pt. 1, Du sendest mir einen Liebesblick", 
+                            "durationR": "5:09", 
+                            "duration": 309, 
+                            "start": 3030
+                        }, 
+                        {
+                            "track": "11", 
+                            "title": "Pt. 1, Du wunderliche Tove!/Orchestral Interlude", 
+                            "durationR": "8:59", 
+                            "duration": 539, 
+                            "start": 3339
+                        }, 
+                        {
+                            "track": "12", 
+                            "title": "Pt. 1, Tauben von Gurre!", 
+                            "durationR": "12:05", 
+                            "duration": 725, 
+                            "start": 3878
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "title": "Track Listing - Disc 2", 
+            "performances": [
+                {
+                    "title": "Gurrelieder, oratorio for 5 soloists, reciter, chorus & orchestra", 
+                    "movements": [
+                        {
+                            "track": "1", 
+                            "title": "Pt. 2, Herrgott, wei\u00dft du, was du tatest", 
+                            "durationR": "4:19", 
+                            "duration": 259, 
+                            "start": 0
+                        }, 
+                        {
+                            "track": "2", 
+                            "title": "Pt. 3, Erwacht, K\u00f6nig Waldemars Mannen wert!", 
+                            "durationR": "2:49", 
+                            "duration": 169, 
+                            "start": 259
+                        }, 
+                        {
+                            "track": "3", 
+                            "title": "Pt. 3, Deckel des Sarges klappert", 
+                            "durationR": "3:43", 
+                            "duration": 223, 
+                            "start": 428
+                        }, 
+                        {
+                            "track": "4", 
+                            "title": "Pt. 3, Gergr\u00fc\u00dft, o K\u00f6nig", 
+                            "durationR": "5:00", 
+                            "duration": 300, 
+                            "start": 651
+                        }, 
+                        {
+                            "track": "5", 
+                            "title": "Pt. 3, Mit Toves Stimme fl\u00fcstert der Wald", 
+                            "durationR": "3:22", 
+                            "duration": 202, 
+                            "start": 951
+                        }, 
+                        {
+                            "track": "6", 
+                            "title": "Pt. 3, Ein seltsammer Vogel ist so'n Aal", 
+                            "durationR": "6:07", 
+                            "duration": 367, 
+                            "start": 1153
+                        }, 
+                        {
+                            "track": "7", 
+                            "title": "Pt. 3, Du strenger Richter droben", 
+                            "durationR": "2:13", 
+                            "duration": 133, 
+                            "start": 1520
+                        }, 
+                        {
+                            "track": "8", 
+                            "title": "Pt. 3, Der Hahn erhebt den Kopf zur Kraht", 
+                            "durationR": "5:56", 
+                            "duration": 356, 
+                            "start": 1653
+                        }, 
+                        {
+                            "track": "9", 
+                            "title": "Pt. 3, Des Sommerwindes wilde Jagd", 
+                            "durationR": "2:59", 
+                            "duration": 179, 
+                            "start": 2009
+                        }, 
+                        {
+                            "track": "10", 
+                            "title": "Pt. 3, Herr G\u00e4nsefu\u00df, Frau G\u00e4nsekraut", 
+                            "durationR": "5:11", 
+                            "duration": 311, 
+                            "start": 2188
+                        }, 
+                        {
+                            "track": "11", 
+                            "title": "Seht die Sonne", 
+                            "durationR": "4:47", 
+                            "duration": 287, 
+                            "start": 2499
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Chamber Symphony No. 2 in E flat minor, Op. 38", 
+                    "movements": [
+                        {
+                            "track": "12", 
+                            "title": "Pt. 1, Adagio", 
+                            "durationR": "7:13", 
+                            "duration": 433, 
+                            "start": 2786
+                        }, 
+                        {
+                            "track": "13", 
+                            "title": "Pt. 2, Con fuoco", 
+                            "durationR": "10:22", 
+                            "duration": 622, 
+                            "start": 3219
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

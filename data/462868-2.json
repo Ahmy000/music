@@ -1,0 +1,163 @@
+{
+    "title": "--", 
+    "composer": "--", 
+    "label": "--", 
+    "performer": "--", 
+    "release": "--", 
+    "discs": [
+        {
+            "title": "Track Listing - Disc 1", 
+            "performances": [
+                {
+                    "title": "Euryanthe, opera, J. 291, (Op. 81)", 
+                    "movements": [
+                        {
+                            "track": "3", 
+                            "title": "Overture", 
+                            "durationR": "8:40", 
+                            "duration": 520, 
+                            "start": 1075
+                        }, 
+                        {
+                            "track": "4", 
+                            "title": "Invitation to the Dance (Aufforderung zum Tanze), for orchestra (orchestrated by Berlioz)", 
+                            "durationR": "10:13", 
+                            "duration": 613, 
+                            "start": 1595
+                        }, 
+                        {
+                            "track": "5", 
+                            "title": "Konzertst\u00fcck for piano & orchestra in F minor, J. 282 (Op. 79)", 
+                            "durationR": "16:21", 
+                            "duration": 981, 
+                            "start": 2208
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Symphony No. 1 in C major, J. 50 (Op. 19)", 
+                    "movements": [
+                        {
+                            "track": "6", 
+                            "title": "No. 1, Allegro con fuoco", 
+                            "durationR": "7:47", 
+                            "duration": 467, 
+                            "start": 3189
+                        }, 
+                        {
+                            "track": "7", 
+                            "title": "No. 2, Andante", 
+                            "durationR": "8:23", 
+                            "duration": 503, 
+                            "start": 3656
+                        }, 
+                        {
+                            "track": "8", 
+                            "title": "No. 3, Scherzo. Presto", 
+                            "durationR": "4:16", 
+                            "duration": 256, 
+                            "start": 4159
+                        }, 
+                        {
+                            "track": "9", 
+                            "title": "No. 4, Finale. Presto", 
+                            "durationR": "4:47", 
+                            "duration": 287, 
+                            "start": 4415
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "title": "Track Listing - Disc 2", 
+            "performances": [
+                {
+                    "title": "Clarinet Concerto No. 1 in F minor, J. 114 (Op. 73)", 
+                    "movements": [
+                        {
+                            "track": "2", 
+                            "title": "No. 1, Allegro moderato", 
+                            "durationR": "9:29", 
+                            "duration": 569, 
+                            "start": 215
+                        }, 
+                        {
+                            "track": "3", 
+                            "title": "No. 2, Adagio ma non troppo", 
+                            "durationR": "6:45", 
+                            "duration": 405, 
+                            "start": 784
+                        }, 
+                        {
+                            "track": "4", 
+                            "title": "No. 3, Rondo Allegretto (Allegro)", 
+                            "durationR": "7:29", 
+                            "duration": 449, 
+                            "start": 1189
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Clarinet Concerto No. 2 in E flat major, J. 118 (Op. 74)", 
+                    "movements": [
+                        {
+                            "track": "5", 
+                            "title": "No. 1, Allegro", 
+                            "durationR": "9:20", 
+                            "duration": 560, 
+                            "start": 1638
+                        }, 
+                        {
+                            "track": "6", 
+                            "title": "No. 2, Romanze. Adante. Andante con moto", 
+                            "durationR": "7:31", 
+                            "duration": 451, 
+                            "start": 2198
+                        }, 
+                        {
+                            "track": "7", 
+                            "title": "No. 3, Alla Polacca", 
+                            "durationR": "7:36", 
+                            "duration": 456, 
+                            "start": 2649
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Quintet for clarinet & strings in B flat major, J. 182 (Op. 34)", 
+                    "movements": [
+                        {
+                            "track": "8", 
+                            "title": "No. 1, Allegro", 
+                            "durationR": "7:29", 
+                            "duration": 449, 
+                            "start": 3105
+                        }, 
+                        {
+                            "track": "9", 
+                            "title": "No. 2, Fantasia. Adagio", 
+                            "durationR": "5:51", 
+                            "duration": 351, 
+                            "start": 3554
+                        }, 
+                        {
+                            "track": "10", 
+                            "title": "No. 3, Menuetto", 
+                            "durationR": "4:45", 
+                            "duration": 285, 
+                            "start": 3905
+                        }, 
+                        {
+                            "track": "11", 
+                            "title": "No. 4, Rondo. Allegro giojoso", 
+                            "durationR": "6:50", 
+                            "duration": 410, 
+                            "start": 4190
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

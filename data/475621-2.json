@@ -1,0 +1,301 @@
+{
+    "title": "--", 
+    "composer": "--", 
+    "label": "--", 
+    "performer": "--", 
+    "release": "--", 
+    "discs": [
+        {
+            "title": "Track Listing - Disc 1", 
+            "performances": [
+                {
+                    "title": "Suite for Cello Solo No.1 in G, BWV 1007", 
+                    "movements": [
+                        {
+                            "track": "1", 
+                            "title": "1. Pr\u00e9lude", 
+                            "durationR": "2:45", 
+                            "duration": 165, 
+                            "start": 0
+                        }, 
+                        {
+                            "track": "2", 
+                            "title": "2. Allemande", 
+                            "durationR": "4:18", 
+                            "duration": 258, 
+                            "start": 165
+                        }, 
+                        {
+                            "track": "3", 
+                            "title": "3. Courante", 
+                            "durationR": "2:36", 
+                            "duration": 156, 
+                            "start": 423
+                        }, 
+                        {
+                            "track": "4", 
+                            "title": "4. Sarabande", 
+                            "durationR": "2:37", 
+                            "duration": 157, 
+                            "start": 579
+                        }, 
+                        {
+                            "track": "5", 
+                            "title": "5. Menuet I-II", 
+                            "durationR": "3:22", 
+                            "duration": 202, 
+                            "start": 736
+                        }, 
+                        {
+                            "track": "6", 
+                            "title": "6. Gigue", 
+                            "durationR": "1:35", 
+                            "duration": 95, 
+                            "start": 938
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Suite for Cello Solo No.2 in D minor, BWV 1008", 
+                    "movements": [
+                        {
+                            "track": "7", 
+                            "title": "1. Pr\u00e9lude", 
+                            "durationR": "3:44", 
+                            "duration": 224, 
+                            "start": 1033
+                        }, 
+                        {
+                            "track": "8", 
+                            "title": "2. Allemande", 
+                            "durationR": "3:32", 
+                            "duration": 212, 
+                            "start": 1257
+                        }, 
+                        {
+                            "track": "9", 
+                            "title": "3. Courante", 
+                            "durationR": "2:04", 
+                            "duration": 124, 
+                            "start": 1469
+                        }, 
+                        {
+                            "track": "10", 
+                            "title": "4. Sarabande", 
+                            "durationR": "4:07", 
+                            "duration": 247, 
+                            "start": 1593
+                        }, 
+                        {
+                            "track": "11", 
+                            "title": "5. Menuet I-II", 
+                            "durationR": "3:02", 
+                            "duration": 182, 
+                            "start": 1840
+                        }, 
+                        {
+                            "track": "12", 
+                            "title": "6. Gigue", 
+                            "durationR": "2:28", 
+                            "duration": 148, 
+                            "start": 2022
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Suite for Cello Solo No.3 in C, BWV 1009", 
+                    "movements": [
+                        {
+                            "track": "13", 
+                            "title": "1. Pr\u00e9lude", 
+                            "durationR": "3:27", 
+                            "duration": 207, 
+                            "start": 2170
+                        }, 
+                        {
+                            "track": "14", 
+                            "title": "2. Allemande", 
+                            "durationR": "3:32", 
+                            "duration": 212, 
+                            "start": 2377
+                        }, 
+                        {
+                            "track": "15", 
+                            "title": "3. Courante", 
+                            "durationR": "3:04", 
+                            "duration": 184, 
+                            "start": 2589
+                        }, 
+                        {
+                            "track": "16", 
+                            "title": "4. Sarabande", 
+                            "durationR": "3:40", 
+                            "duration": 220, 
+                            "start": 2773
+                        }, 
+                        {
+                            "track": "17", 
+                            "title": "5. Bourr\u00e9e I-II", 
+                            "durationR": "3:18", 
+                            "duration": 198, 
+                            "start": 2993
+                        }, 
+                        {
+                            "track": "18", 
+                            "title": "6. Gigue", 
+                            "durationR": "2:54", 
+                            "duration": 174, 
+                            "start": 3191
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "title": "Track Listing - Disc 2", 
+            "performances": [
+                {
+                    "title": "Suite for Cello Solo No.4 in E flat, BWV 1010", 
+                    "movements": [
+                        {
+                            "track": "1", 
+                            "title": "1. Pr\u00e9lude", 
+                            "durationR": "3:44", 
+                            "duration": 224, 
+                            "start": 0
+                        }, 
+                        {
+                            "track": "2", 
+                            "title": "2. Allemande", 
+                            "durationR": "4:21", 
+                            "duration": 261, 
+                            "start": 224
+                        }, 
+                        {
+                            "track": "3", 
+                            "title": "3. Courante", 
+                            "durationR": "3:06", 
+                            "duration": 186, 
+                            "start": 485
+                        }, 
+                        {
+                            "track": "4", 
+                            "title": "4. Sarabande", 
+                            "durationR": "3:48", 
+                            "duration": 228, 
+                            "start": 671
+                        }, 
+                        {
+                            "track": "5", 
+                            "title": "5. Bourr\u00e9e I-II", 
+                            "durationR": "4:20", 
+                            "duration": 260, 
+                            "start": 899
+                        }, 
+                        {
+                            "track": "6", 
+                            "title": "6. Gigue", 
+                            "durationR": "2:46", 
+                            "duration": 166, 
+                            "start": 1159
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Suite for Cello Solo No.5 in C minor, BWV 1011", 
+                    "movements": [
+                        {
+                            "track": "7", 
+                            "title": "1. Pr\u00e9lude", 
+                            "durationR": "5:29", 
+                            "duration": 329, 
+                            "start": 1325
+                        }, 
+                        {
+                            "track": "8", 
+                            "title": "2. Allemande", 
+                            "durationR": "5:07", 
+                            "duration": 307, 
+                            "start": 1654
+                        }, 
+                        {
+                            "track": "9", 
+                            "title": "3. Courante", 
+                            "durationR": "1:54", 
+                            "duration": 114, 
+                            "start": 1961
+                        }, 
+                        {
+                            "track": "10", 
+                            "title": "4. Sarabande", 
+                            "durationR": "3:52", 
+                            "duration": 232, 
+                            "start": 2075
+                        }, 
+                        {
+                            "track": "11", 
+                            "title": "5. Gavotte I-II", 
+                            "durationR": "4:17", 
+                            "duration": 257, 
+                            "start": 2307
+                        }, 
+                        {
+                            "track": "12", 
+                            "title": "6. Gigue", 
+                            "durationR": "1:55", 
+                            "duration": 115, 
+                            "start": 2564
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Suite for Cello Solo No.6 in D, BWV 1012", 
+                    "movements": [
+                        {
+                            "track": "13", 
+                            "title": "1. Pr\u00e9lude", 
+                            "durationR": "4:34", 
+                            "duration": 274, 
+                            "start": 2679
+                        }, 
+                        {
+                            "track": "14", 
+                            "title": "2. Allemande", 
+                            "durationR": "7:31", 
+                            "duration": 451, 
+                            "start": 2953
+                        }, 
+                        {
+                            "track": "15", 
+                            "title": "3. Courante", 
+                            "durationR": "3:19", 
+                            "duration": 199, 
+                            "start": 3404
+                        }, 
+                        {
+                            "track": "16", 
+                            "title": "4. Sarabande", 
+                            "durationR": "4:43", 
+                            "duration": 283, 
+                            "start": 3603
+                        }, 
+                        {
+                            "track": "17", 
+                            "title": "5. Gavotte I-II", 
+                            "durationR": "3:54", 
+                            "duration": 234, 
+                            "start": 3886
+                        }, 
+                        {
+                            "track": "18", 
+                            "title": "6. Gigue", 
+                            "durationR": "3:54", 
+                            "duration": 234, 
+                            "start": 4120
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

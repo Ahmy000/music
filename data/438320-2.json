@@ -1,0 +1,99 @@
+{
+    "title": "--", 
+    "composer": "--", 
+    "label": "--", 
+    "performer": "--", 
+    "release": "--", 
+    "discs": [
+        {
+            "title": "Track Listing - Disc 1", 
+            "performances": [
+                {
+                    "title": "Piano Concerto No. 1 in D minor, Op. 15", 
+                    "movements": [
+                        {
+                            "track": "1", 
+                            "title": "Maestoso", 
+                            "durationR": "24:14", 
+                            "duration": 1454, 
+                            "start": 0
+                        }, 
+                        {
+                            "track": "2", 
+                            "title": "Adagio", 
+                            "durationR": "15:48", 
+                            "duration": 948, 
+                            "start": 1454
+                        }, 
+                        {
+                            "track": "3", 
+                            "title": "Rondo", 
+                            "durationR": "13:00", 
+                            "duration": 780, 
+                            "start": 2402
+                        }, 
+                        {
+                            "track": "4", 
+                            "title": "Variations on a Theme of Haydn for orchestra in B flat major (St. Anthony Variations), Op. 56a", 
+                            "durationR": "19:14", 
+                            "duration": 1154, 
+                            "start": 3182
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "title": "Track Listing - Disc 2", 
+            "performances": [
+                {
+                    "title": "Piano Concerto No. 2 in B flat major, Op. 83", 
+                    "movements": [
+                        {
+                            "track": "1", 
+                            "title": "Allegro non troppo", 
+                            "durationR": "19:17", 
+                            "duration": 1157, 
+                            "start": 0
+                        }, 
+                        {
+                            "track": "2", 
+                            "title": "Allegro appassionato", 
+                            "durationR": "9:20", 
+                            "duration": 560, 
+                            "start": 1157
+                        }, 
+                        {
+                            "track": "3", 
+                            "title": "Andante", 
+                            "durationR": "12:07", 
+                            "duration": 727, 
+                            "start": 1717
+                        }, 
+                        {
+                            "track": "4", 
+                            "title": "Allegretto grazioso", 
+                            "durationR": "10:06", 
+                            "duration": 606, 
+                            "start": 2444
+                        }, 
+                        {
+                            "track": "5", 
+                            "title": "Tragic Overture, in D minor, Op. 81", 
+                            "durationR": "13:40", 
+                            "duration": 820, 
+                            "start": 3050
+                        }, 
+                        {
+                            "track": "6", 
+                            "title": "Academic Festival Overture, for orchestra in C minor (\"Akademische Festouvert\u00fcre\"), Op. 80", 
+                            "durationR": "10:20", 
+                            "duration": 620, 
+                            "start": 3870
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

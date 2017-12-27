@@ -1,116 +1,116 @@
-{ 
-  'source': 'allmusic',
-  'albums': [
+{
+  "source": "allmusic",
+  "albums": [
     {
-      'upc': '825646233328',
-      'catalogue': '2564 62333-2',
-      'uri':'mozart-250th-anniversary-edition-complete-violin-concertos-concertos-for-winds-mw0001946089', 
-      'title': 'Mozart 250th Anniversary Edition: Complete Violin Concertos, Concertos for Winds'
+      "upc": "825646233328",
+      "catalogue": "256462333-2",
+      "uri":"mozart-250th-anniversary-edition-complete-violin-concertos-concertos-for-winds-mw0001946089", 
+      "title": "Mozart 250th Anniversary Edition: Complete Violin Concertos, Concertos for Winds"
     },
     {
-      'upc': '825646233229',
-      'catalogue': '2564 62332-2',
-      'uri': 'mozart-complete-piano-concertos-250th-anniversary-edition-mw0001865765',
-      'title': 'Mozart: Complete Piano Concertos (250th Anniversary Edition)'
+      "upc": "825646233229",
+      "catalogue": "256462332-2",
+      "uri": "mozart-complete-piano-concertos-250th-anniversary-edition-mw0001865765",
+      "title": "Mozart: Complete Piano Concertos (250th Anniversary Edition)"
     },
     {
-      'catalogue': '438 320-2',
-      'uri': 'brahms-piano-concertos-complete-overtures-complete-haydn-variations-mw0001883009',
-      'title': 'Brahms: Piano Concertos (complete); Overtures (complete); Haydn Variations'
+      "catalogue": "438320-2",
+      "uri": "brahms-piano-concertos-complete-overtures-complete-haydn-variations-mw0001883009",
+      "title": "Brahms: Piano Concertos (complete); Overtures (complete); Haydn Variations"
     },
     {
-      'catalogue': '438 374-2',
-      'uri':'beethoven-the-late-piano-sonatas-mw0001360411', 
-      'title': 'Beethoven: The Late Piano Sonatas'
+      "catalogue": "438374-2",
+      "uri":"beethoven-the-late-piano-sonatas-mw0001360411",
+      "title": "Beethoven: The Late Piano Sonatas"
     },
     {
-      'catalogue': '438 730-2',
-      'uri': 'beethoven-favourite-piano-sonatas-mw0001340434', 
-      'title': 'Beethoven: Favourite Piano Sonatas'
+      "catalogue": "438730-2",
+      "uri": "beethoven-favourite-piano-sonatas-mw0001340434", 
+      "title": "Beethoven: Favourite Piano Sonatas"
     },
     {
-      'catalogue': '442 287-2',
-      'uri': 'favourite-violin-concertos-mw0001821683', 
-      'title': 'Favourite Violin Concertos'
+      "catalogue": "442287-2",
+      "uri": "favourite-violin-concertos-mw0001821683", 
+      "title": "Favourite Violin Concertos"
     },
     {
-      'catalogue': '442 293-2',
-      'uri': 'bach-the-6-cello-suites-mw0001939312', 
-      'title': 'Bach: The 6 Cello Suites'
+      "catalogue": "442293-2",
+      "uri": "bach-the-6-cello-suites-mw0001939312", 
+      "title": "Bach: The 6 Cello Suites"
     },
     {
-      'catalogue': '442 577-2',
-      'uri': 'beethoven-complete-concertos-vol-1-mw0001381921', 
-      'title': 'Beethoven: Complete Concertos, Vol. 1'
+      "catalogue": "442577-2",
+      "uri": "beethoven-complete-concertos-vol-1-mw0001381921", 
+      "title": "Beethoven: Complete Concertos, Vol. 1"
     },
     {
-      'catalogue': '442 580-2',
-      'uri': 'beethoven-complete-concertos-vol-2-mw0001399662', 
-      'title': 'Beethoven: Complete Concertos Vol. 2'
+      "catalogue": "442580-2",
+      "uri": "beethoven-complete-concertos-vol-2-mw0001399662", 
+      "title": "Beethoven: Complete Concertos Vol. 2"
     },
     {
-      'catalogue': '442 589-2',
-      'uri': 'brahms-the-late-piano-music-handel-and-paganini-variations-mw0001823542', 
-      'title': 'Brahms: The Late Piano Music; Handel and Paganini Variations'
+      "catalogue": "442589-2",
+      "uri": "brahms-the-late-piano-music-handel-and-paganini-variations-mw0001823542", 
+      "title": "Brahms: The Late Piano Music; Handel and Paganini Variations"
     },
     {
-      'catalogue': '442 608-2',
-      'uri': 'the-best-of-saint-saëns-mw0001940418', 
-      'title': 'The Best of Saint-Saëns'
+      "catalogue": "442608-2",
+      "uri": "the-best-of-saint-saëns-mw0001940418", 
+      "title": "The Best of Saint-Saëns"
     },
     {
-      'catalogue': '446 145-2',
-      'uri': 'the-best-of-chopin-mw0001366025', 
-      'title': 'The Best of Chopin'
+      "catalogue": "446145-2",
+      "uri": "the-best-of-chopin-mw0001366025", 
+      "title": "The Best of Chopin"
     },
     {
-      'catalogue': '446 163-2',
-      'uri': 'schubert-the-last-four-quartets-mw0001808107', 
-      'title': 'Schubert: The Last Four Quartets'
+      "catalogue": "446163-2",
+      "uri": "schubert-the-last-four-quartets-mw0001808107", 
+      "title": "Schubert: The Last Four Quartets"
     },
     {
-      'catalogue': '446 166-2',
-      'uri': 'tchaikovsky-the-sleeping-beauty-mw0001532518', 
-      'title': 'Tchaikovsky: The Sleeping Beauty'
+      "catalogue": "446166-2",
+      "uri": "tchaikovsky-the-sleeping-beauty-mw0001532518", 
+      "title": "Tchaikovsky: The Sleeping Beauty"
     },
     {
-      'catalogue': '454 247-2',
-      'uri': 'beethoven-complete-music-for-flute-mw0001352188', 
-      'title': 'Beethoven: Complete Music for Flute'
+      "catalogue": "454247-2",
+      "uri": "beethoven-complete-music-for-flute-mw0001352188", 
+      "title": "Beethoven: Complete Music for Flute"
     },
     {
-      'catalogue': '456 330-2',
-      'uri': 'rossini-the-complete-string-sonatasl-mendelssohn-octet-for-strings-op-20-wolf-italian-serenade-bottesini-grand-duo-concertant-mw0001821735', 
-      'title': 'Rossini: The Complete String Sonatasl; Mendelssohn: Octet for Strings, Op. 20; Wolf: Italian Serenade; Bottesini: Grand Duo Concertant'
+      "catalogue": "456330-2",
+      "uri": "rossini-the-complete-string-sonatasl-mendelssohn-octet-for-strings-op-20-wolf-italian-serenade-bottesini-grand-duo-concertant-mw0001821735", 
+      "title": "Rossini: The Complete String Sonatasl; Mendelssohn: Octet for Strings, Op. 20; Wolf: Italian Serenade; Bottesini: Grand Duo Concertant"
     },
     {
-      'catalogue': '462 865-2',
-      'uri': 'the-best-of-paganini-mw0001941832', 
-      'title': 'The Best of Paganini'
+      "catalogue": "462865-2",
+      "uri": "the-best-of-paganini-mw0001941832", 
+      "title": "The Best of Paganini"
     },
     {
-      'catalogue': '462 868-2',
-      'uri': 'the-best-of-weber-mw0001818318', 
-      'title': 'The Best of Weber'
+      "catalogue": "462868-2",
+      "uri": "the-best-of-weber-mw0001818318", 
+      "title": "The Best of Weber"
     },
     {
-      'catalogue': '464 040-2',
-      'uri': 'arnold-schoenberg-gurrelieder-the-two-chamber-symphonies-mw0001833502', 
-      'title': 'Arnold Schoenberg: Gurrelieder; The Two Chamber Symphonies'
+      "catalogue": "464040-2",
+      "uri": "arnold-schoenberg-gurrelieder-the-two-chamber-symphonies-mw0001833502", 
+      "title": "Arnold Schoenberg: Gurrelieder; The Two Chamber Symphonies"
     },
     {
-      'catalogue': '464-046-2',
-      'uri': 'schoenberg-the-string-quartets-mw0001819874', 
-      'title': 'Schoenberg: The String Quartets'
+      "catalogue": "464046-2",
+      "uri": "schoenberg-the-string-quartets-mw0001819874", 
+      "title": "Schoenberg: The String Quartets"
     },
     {
-      'catalogue': '464 052-2',
-      'uri': 'albinoni-complete-concertos-op5-7-mw0001428399', 
-      'title': 'Albinoni: Complete Concertos Op.5 & 7'
+      "catalogue": "464052-2",
+      "uri": "albinoni-complete-concertos-op5-7-mw0001428399", 
+      "title": "Albinoni: Complete Concertos Op.5 & 7"
     },
     {
-      'catalogue': '475 621-2',
-      'uri': 'bach-6-solo-suites-bwv-1007-1012-mw0001864371', 
-      'title': 'Bach: 6 Solo Suites BWV 1007-1012'
+      "catalogue": "475621-2",
+      "uri": "bach-6-solo-suites-bwv-1007-1012-mw0001864371", 
+      "title": "Bach: 6 Solo Suites BWV 1007-1012"
     }
 ]}

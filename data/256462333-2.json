@@ -1,0 +1,471 @@
+{
+    "title": "--", 
+    "composer": "--", 
+    "label": "--", 
+    "performer": "--", 
+    "release": "--", 
+    "discs": [
+        {
+            "title": "Track Listing - Disc 1", 
+            "performances": [
+                {
+                    "title": "Horn Concerto No. 1 in D major, K. 412/514 (K. 386b)", 
+                    "movements": [
+                        {
+                            "track": "1", 
+                            "title": "Allegro (K412)", 
+                            "durationR": "4:53", 
+                            "duration": 293, 
+                            "start": 0
+                        }, 
+                        {
+                            "track": "2", 
+                            "title": "Allegro (K514)", 
+                            "durationR": "3:39", 
+                            "duration": 219, 
+                            "start": 293
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Horn Concerto No. 2 in E flat major, K. 417", 
+                    "movements": [
+                        {
+                            "track": "3", 
+                            "title": "Allegro maestoso", 
+                            "durationR": "6:34", 
+                            "duration": 394, 
+                            "start": 512
+                        }, 
+                        {
+                            "track": "4", 
+                            "title": "Andante", 
+                            "durationR": "3:17", 
+                            "duration": 197, 
+                            "start": 906
+                        }, 
+                        {
+                            "track": "5", 
+                            "title": "Rondo", 
+                            "durationR": "3:24", 
+                            "duration": 204, 
+                            "start": 1103
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Horn Concerto No. 3 in E flat major, K. 447", 
+                    "movements": [
+                        {
+                            "track": "6", 
+                            "title": "Allegro", 
+                            "durationR": "6:55", 
+                            "duration": 415, 
+                            "start": 1307
+                        }, 
+                        {
+                            "track": "7", 
+                            "title": "Romanza (Larghetto)", 
+                            "durationR": "4:35", 
+                            "duration": 275, 
+                            "start": 1722
+                        }, 
+                        {
+                            "track": "8", 
+                            "title": "Allegro", 
+                            "durationR": "3:29", 
+                            "duration": 209, 
+                            "start": 1997
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Horn Concerto No. 4 in E flat major, K. 495", 
+                    "movements": [
+                        {
+                            "track": "9", 
+                            "title": "Allegro moderato", 
+                            "durationR": "8:19", 
+                            "duration": 499, 
+                            "start": 2206
+                        }, 
+                        {
+                            "track": "10", 
+                            "title": "Romanze (Andante)", 
+                            "durationR": "4:41", 
+                            "duration": 281, 
+                            "start": 2705
+                        }, 
+                        {
+                            "track": "11", 
+                            "title": "Rondo (Allegro vivace)", 
+                            "durationR": "3:30", 
+                            "duration": 210, 
+                            "start": 2986
+                        }, 
+                        {
+                            "track": "12", 
+                            "title": "Rondo for violin & orchestra in B flat major, K. 269 (K. 261a)", 
+                            "durationR": "6:56", 
+                            "duration": 416, 
+                            "start": 3196
+                        }, 
+                        {
+                            "track": "13", 
+                            "title": "Rondo for violin & orchestra in C major, K. 373", 
+                            "durationR": "5:16", 
+                            "duration": 316, 
+                            "start": 3612
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "title": "Track Listing - Disc 2", 
+            "performances": [
+                {
+                    "title": "Violin Concerto No. 1 in B flat major, K. 207", 
+                    "movements": [
+                        {
+                            "track": "1", 
+                            "title": "Allegro moderato", 
+                            "durationR": "7:01", 
+                            "duration": 421, 
+                            "start": 0
+                        }, 
+                        {
+                            "track": "2", 
+                            "title": "Adagio", 
+                            "durationR": "7:20", 
+                            "duration": 440, 
+                            "start": 421
+                        }, 
+                        {
+                            "track": "3", 
+                            "title": "Presto", 
+                            "durationR": "5:18", 
+                            "duration": 318, 
+                            "start": 861
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Violin Concerto No. 2 in D major, K. 211", 
+                    "movements": [
+                        {
+                            "track": "4", 
+                            "title": "Allegro Moderato", 
+                            "durationR": "9:15", 
+                            "duration": 555, 
+                            "start": 1179
+                        }, 
+                        {
+                            "track": "5", 
+                            "title": "Andante", 
+                            "durationR": "7:25", 
+                            "duration": 445, 
+                            "start": 1734
+                        }, 
+                        {
+                            "track": "6", 
+                            "title": "Rondeau (Allegro)", 
+                            "durationR": "4:40", 
+                            "duration": 280, 
+                            "start": 2179
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Violin Concerto No. 3 in G major, K. 216", 
+                    "movements": [
+                        {
+                            "track": "7", 
+                            "title": "Allegro", 
+                            "durationR": "9:26", 
+                            "duration": 566, 
+                            "start": 2459
+                        }, 
+                        {
+                            "track": "8", 
+                            "title": "Andante", 
+                            "durationR": "8:51", 
+                            "duration": 531, 
+                            "start": 3025
+                        }, 
+                        {
+                            "track": "9", 
+                            "title": "Rondeau (Allegro)", 
+                            "durationR": "6:11", 
+                            "duration": 371, 
+                            "start": 3556
+                        }, 
+                        {
+                            "track": "10", 
+                            "title": "Adagio for violin & orchestra in E major, K. 261", 
+                            "durationR": "6:05", 
+                            "duration": 365, 
+                            "start": 3927
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "title": "Track Listing - Disc 3", 
+            "performances": [
+                {
+                    "title": "Violin Concerto No. 4 in D major, K. 218", 
+                    "movements": [
+                        {
+                            "track": "1", 
+                            "title": "Allegro", 
+                            "durationR": "8:11", 
+                            "duration": 491, 
+                            "start": 0
+                        }, 
+                        {
+                            "track": "2", 
+                            "title": "Andante cantabile", 
+                            "durationR": "6:13", 
+                            "duration": 373, 
+                            "start": 491
+                        }, 
+                        {
+                            "track": "3", 
+                            "title": "Rondeau (Andante grazioso - Allegro ma non troppo)", 
+                            "durationR": "6:55", 
+                            "duration": 415, 
+                            "start": 864
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Violin Concerto No. 5 in A major (\"Turkish\") K. 219", 
+                    "movements": [
+                        {
+                            "track": "4", 
+                            "title": "Allegro aperto", 
+                            "durationR": "10:14", 
+                            "duration": 614, 
+                            "start": 1279
+                        }, 
+                        {
+                            "track": "5", 
+                            "title": "Adagio", 
+                            "durationR": "10:57", 
+                            "duration": 657, 
+                            "start": 1893
+                        }, 
+                        {
+                            "track": "6", 
+                            "title": "Rondeau (Tempo di menuetto)", 
+                            "durationR": "9:09", 
+                            "duration": 549, 
+                            "start": 2550
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Violin Concerto in D major (doubtful, \"Concerto No. 7\"), K(2) 271a (K. 271i)", 
+                    "movements": [
+                        {
+                            "track": "7", 
+                            "title": "Allegro maestoso", 
+                            "durationR": "10:24", 
+                            "duration": 624, 
+                            "start": 3099
+                        }, 
+                        {
+                            "track": "8", 
+                            "title": "Andante", 
+                            "durationR": "7:05", 
+                            "duration": 425, 
+                            "start": 3723
+                        }, 
+                        {
+                            "track": "9", 
+                            "title": "Rondo: Allegro", 
+                            "durationR": "8:28", 
+                            "duration": 508, 
+                            "start": 4148
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "title": "Track Listing - Disc 4", 
+            "performances": [
+                {
+                    "title": "Clarinet Concerto in A major, K. 622", 
+                    "movements": [
+                        {
+                            "track": "1", 
+                            "title": "Allegro", 
+                            "durationR": "12:24", 
+                            "duration": 744, 
+                            "start": 0
+                        }, 
+                        {
+                            "track": "2", 
+                            "title": "Adagio", 
+                            "durationR": "7:31", 
+                            "duration": 451, 
+                            "start": 744
+                        }, 
+                        {
+                            "track": "3", 
+                            "title": "Rondo (Allegro)", 
+                            "durationR": "9:06", 
+                            "duration": 546, 
+                            "start": 1195
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Oboe Concerto in C major, K. 314 (K. 285d)", 
+                    "movements": [
+                        {
+                            "track": "4", 
+                            "title": "Allegro aperto", 
+                            "durationR": "7:14", 
+                            "duration": 434, 
+                            "start": 1741
+                        }, 
+                        {
+                            "track": "5", 
+                            "title": "Adagio ma non troppo", 
+                            "durationR": "6:13", 
+                            "duration": 373, 
+                            "start": 2175
+                        }, 
+                        {
+                            "track": "6", 
+                            "title": "Rondo (Allegretto)", 
+                            "durationR": "5:56", 
+                            "duration": 356, 
+                            "start": 2548
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Bassoon Concerto in B flat major, K. 191 (K. 186e)", 
+                    "movements": [
+                        {
+                            "track": "7", 
+                            "title": "Allegro", 
+                            "durationR": "7:14", 
+                            "duration": 434, 
+                            "start": 2904
+                        }, 
+                        {
+                            "track": "8", 
+                            "title": "Andante ma adagio", 
+                            "durationR": "7:23", 
+                            "duration": 443, 
+                            "start": 3338
+                        }, 
+                        {
+                            "track": "9", 
+                            "title": "Rondo (Tempo di menuetto)", 
+                            "durationR": "4:16", 
+                            "duration": 256, 
+                            "start": 3781
+                        }, 
+                        {
+                            "track": "10", 
+                            "title": "Andante for flute & orchestra in C major, K. 315 (K. 285e)", 
+                            "durationR": "6:42", 
+                            "duration": 402, 
+                            "start": 4037
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "title": "Track Listing - Disc 5", 
+            "performances": [
+                {
+                    "title": "Flute Concerto No. 1 in G major, K. 313 (K. 285c)", 
+                    "movements": [
+                        {
+                            "track": "1", 
+                            "title": "Allegro maestoso", 
+                            "durationR": "9:12", 
+                            "duration": 552, 
+                            "start": 0
+                        }, 
+                        {
+                            "track": "2", 
+                            "title": "Adagio non troppo", 
+                            "durationR": "9:47", 
+                            "duration": 587, 
+                            "start": 552
+                        }, 
+                        {
+                            "track": "3", 
+                            "title": "Rondo (Tempo di minuetto)", 
+                            "durationR": "6:52", 
+                            "duration": 412, 
+                            "start": 1139
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Flute Concerto No. 2 in D major, K. 314 (K. 285d)", 
+                    "movements": [
+                        {
+                            "track": "4", 
+                            "title": "Allegro aperto", 
+                            "durationR": "7:28", 
+                            "duration": 448, 
+                            "start": 1551
+                        }, 
+                        {
+                            "track": "5", 
+                            "title": "Andante ma non troppo", 
+                            "durationR": "7:39", 
+                            "duration": 459, 
+                            "start": 1999
+                        }, 
+                        {
+                            "track": "6", 
+                            "title": "Allegro", 
+                            "durationR": "5:38", 
+                            "duration": 338, 
+                            "start": 2458
+                        }
+                    ]
+                }, 
+                {
+                    "title": "Concerto for flute, harp & orchestra in C major, K. 299 (K. 297c)", 
+                    "movements": [
+                        {
+                            "track": "7", 
+                            "title": "Allegro", 
+                            "durationR": "10:30", 
+                            "duration": 630, 
+                            "start": 2796
+                        }, 
+                        {
+                            "track": "8", 
+                            "title": "Andantino", 
+                            "durationR": "9:39", 
+                            "duration": 579, 
+                            "start": 3426
+                        }, 
+                        {
+                            "track": "9", 
+                            "title": "Rondo (Allegro)", 
+                            "durationR": "9:41", 
+                            "duration": 581, 
+                            "start": 4005
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
