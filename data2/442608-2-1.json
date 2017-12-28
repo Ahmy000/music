@@ -1,0 +1,169 @@
+{
+    "title": "Track Listing - Disc 1", 
+    "performances": [
+        {
+            "title": "Violin Concerto No.3 in B minor, Op.61", 
+            "movements": [
+                {
+                    "track": "1", 
+                    "title": "1. Allegro non troppo", 
+                    "durationR": "8:23", 
+                    "duration": 503, 
+                    "start": 0
+                }, 
+                {
+                    "track": "2", 
+                    "title": "2. Andantino quasi allegretto", 
+                    "durationR": "7:24", 
+                    "duration": 444, 
+                    "start": 503
+                }, 
+                {
+                    "track": "3", 
+                    "title": "3. Molto moderato e maestoso", 
+                    "durationR": "10:54", 
+                    "duration": 654, 
+                    "start": 947
+                }
+            ]
+        }, 
+        {
+            "title": "Dyrenes Karneval", 
+            "movements": [
+                {
+                    "track": "4", 
+                    "title": "Introduction et Marche royale du Lion", 
+                    "durationR": "2:01", 
+                    "duration": 121, 
+                    "start": 1601
+                }, 
+                {
+                    "track": "5", 
+                    "title": "Poules et Coqs", 
+                    "durationR": "0:46", 
+                    "duration": 46, 
+                    "start": 1722
+                }, 
+                {
+                    "track": "6", 
+                    "title": "H\u00e9miones (Animaux v\u00e9loces)", 
+                    "durationR": "0:41", 
+                    "duration": 41, 
+                    "start": 1768
+                }, 
+                {
+                    "track": "7", 
+                    "title": "Tortues", 
+                    "durationR": "1:26", 
+                    "duration": 86, 
+                    "start": 1809
+                }, 
+                {
+                    "track": "8", 
+                    "title": "L'El\u00e9phant", 
+                    "durationR": "1:25", 
+                    "duration": 85, 
+                    "start": 1895
+                }, 
+                {
+                    "track": "9", 
+                    "title": "Kangourous", 
+                    "durationR": "1:00", 
+                    "duration": 60, 
+                    "start": 1980
+                }, 
+                {
+                    "track": "10", 
+                    "title": "Aquarium", 
+                    "durationR": "2:02", 
+                    "duration": 122, 
+                    "start": 2040
+                }, 
+                {
+                    "track": "11", 
+                    "title": "Personnages \u00e0 longues oreilles", 
+                    "durationR": "0:40", 
+                    "duration": 40, 
+                    "start": 2162
+                }, 
+                {
+                    "track": "12", 
+                    "title": "Le coucou au fond des bois", 
+                    "durationR": "2:03", 
+                    "duration": 123, 
+                    "start": 2202
+                }, 
+                {
+                    "track": "13", 
+                    "title": "Voli\u00e8res", 
+                    "durationR": "1:22", 
+                    "duration": 82, 
+                    "start": 2325
+                }, 
+                {
+                    "track": "14", 
+                    "title": "Pianistes", 
+                    "durationR": "1:18", 
+                    "duration": 78, 
+                    "start": 2407
+                }, 
+                {
+                    "track": "15", 
+                    "title": "Fossiles", 
+                    "durationR": "1:21", 
+                    "duration": 81, 
+                    "start": 2485
+                }, 
+                {
+                    "track": "16", 
+                    "title": "Le Cygne", 
+                    "durationR": "3:11", 
+                    "duration": 191, 
+                    "start": 2566
+                }, 
+                {
+                    "track": "17", 
+                    "title": "Finale", 
+                    "durationR": "2:04", 
+                    "duration": 124, 
+                    "start": 2757
+                }, 
+                {
+                    "track": "18", 
+                    "title": "Danse macabre, Op.40", 
+                    "durationR": "7:25", 
+                    "duration": 445, 
+                    "start": 2881
+                }
+            ]
+        }, 
+        {
+            "title": "Piano Concerto No.2 in G minor, Op.22", 
+            "movements": [
+                {
+                    "track": "19", 
+                    "title": "1. Andante sostenuto", 
+                    "durationR": "10:36", 
+                    "duration": 636, 
+                    "start": 3326
+                }, 
+                {
+                    "track": "20", 
+                    "title": "2. Allegro scherzando", 
+                    "durationR": "5:48", 
+                    "duration": 348, 
+                    "start": 3962
+                }, 
+                {
+                    "track": "21", 
+                    "title": "3. Presto", 
+                    "durationR": "7:02", 
+                    "duration": 422, 
+                    "start": 4310
+                }
+            ]
+        }
+    ], 
+    "catalogue": "442608-2", 
+    "cd": "1"
+}

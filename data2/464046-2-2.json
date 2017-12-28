@@ -1,0 +1,73 @@
+{
+    "title": "Track Listing - Disc 2", 
+    "performances": [
+        {
+            "title": "String Quartet No. 3, Op. 30", 
+            "movements": [
+                {
+                    "track": "1", 
+                    "title": "1. Moderato", 
+                    "durationR": "9:35", 
+                    "duration": 575, 
+                    "start": 0
+                }, 
+                {
+                    "track": "2", 
+                    "title": "2. Adagio", 
+                    "durationR": "9:01", 
+                    "duration": 541, 
+                    "start": 575
+                }, 
+                {
+                    "track": "3", 
+                    "title": "3. Intermezzo. Allegro moderato", 
+                    "durationR": "7:34", 
+                    "duration": 454, 
+                    "start": 1116
+                }, 
+                {
+                    "track": "4", 
+                    "title": "4. Rondo, Molto moderato", 
+                    "durationR": "6:51", 
+                    "duration": 411, 
+                    "start": 1570
+                }
+            ]
+        }, 
+        {
+            "title": "String Quartet No. 4, Op. 37", 
+            "movements": [
+                {
+                    "track": "5", 
+                    "title": "1. Allegro molto, energico", 
+                    "durationR": "9:38", 
+                    "duration": 578, 
+                    "start": 1981
+                }, 
+                {
+                    "track": "6", 
+                    "title": "2. Comodo", 
+                    "durationR": "8:39", 
+                    "duration": 519, 
+                    "start": 2559
+                }, 
+                {
+                    "track": "7", 
+                    "title": "3. Largo", 
+                    "durationR": "7:52", 
+                    "duration": 472, 
+                    "start": 3078
+                }, 
+                {
+                    "track": "8", 
+                    "title": "4. Allegro", 
+                    "durationR": "8:56", 
+                    "duration": 536, 
+                    "start": 3550
+                }
+            ]
+        }
+    ], 
+    "catalogue": "464046-2", 
+    "cd": "2"
+}

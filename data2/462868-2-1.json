@@ -1,0 +1,66 @@
+{
+    "title": "Track Listing - Disc 1", 
+    "performances": [
+        {
+            "title": "Euryanthe, opera, J. 291, (Op. 81)", 
+            "movements": [
+                {
+                    "track": "3", 
+                    "title": "Overture", 
+                    "durationR": "8:40", 
+                    "duration": 520, 
+                    "start": 1075
+                }, 
+                {
+                    "track": "4", 
+                    "title": "Invitation to the Dance (Aufforderung zum Tanze), for orchestra (orchestrated by Berlioz)", 
+                    "durationR": "10:13", 
+                    "duration": 613, 
+                    "start": 1595
+                }, 
+                {
+                    "track": "5", 
+                    "title": "Konzertst\u00fcck for piano & orchestra in F minor, J. 282 (Op. 79)", 
+                    "durationR": "16:21", 
+                    "duration": 981, 
+                    "start": 2208
+                }
+            ]
+        }, 
+        {
+            "title": "Symphony No. 1 in C major, J. 50 (Op. 19)", 
+            "movements": [
+                {
+                    "track": "6", 
+                    "title": "No. 1, Allegro con fuoco", 
+                    "durationR": "7:47", 
+                    "duration": 467, 
+                    "start": 3189
+                }, 
+                {
+                    "track": "7", 
+                    "title": "No. 2, Andante", 
+                    "durationR": "8:23", 
+                    "duration": 503, 
+                    "start": 3656
+                }, 
+                {
+                    "track": "8", 
+                    "title": "No. 3, Scherzo. Presto", 
+                    "durationR": "4:16", 
+                    "duration": 256, 
+                    "start": 4159
+                }, 
+                {
+                    "track": "9", 
+                    "title": "No. 4, Finale. Presto", 
+                    "durationR": "4:47", 
+                    "duration": 287, 
+                    "start": 4415
+                }
+            ]
+        }
+    ], 
+    "catalogue": "462868-2", 
+    "cd": "1"
+}

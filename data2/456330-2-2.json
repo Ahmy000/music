@@ -1,0 +1,73 @@
+{
+    "title": "Track Listing - Disc 2", 
+    "performances": [
+        {
+            "title": "Sonate a quattro (6) for 2 violins, cello & bass, QR i/1", 
+            "movements": [
+                {
+                    "track": "1", 
+                    "title": "Sonata a quattro No 06 in D. 1. Allegro spiritoso", 
+                    "durationR": "7:40", 
+                    "duration": 460, 
+                    "start": 0
+                }, 
+                {
+                    "track": "2", 
+                    "title": "Sonata a quattro No 06 in D. 2. Andante assai", 
+                    "durationR": "2:35", 
+                    "duration": 155, 
+                    "start": 460
+                }, 
+                {
+                    "track": "3", 
+                    "title": "Sonata a quattro No 06 in D. 3. Tempesta. Allegro", 
+                    "durationR": "5:33", 
+                    "duration": 333, 
+                    "start": 615
+                }, 
+                {
+                    "track": "4", 
+                    "title": "Gran Duo Concertante for violin (or clarinet), double-bass & orchestra (or piano)", 
+                    "durationR": "18:50", 
+                    "duration": 1130, 
+                    "start": 948
+                }
+            ]
+        }, 
+        {
+            "title": "Octet for strings in E flat major, Op. 20", 
+            "movements": [
+                {
+                    "track": "5", 
+                    "title": "1. Allegro moderato, ma con fuoco", 
+                    "durationR": "14:10", 
+                    "duration": 850, 
+                    "start": 2078
+                }, 
+                {
+                    "track": "6", 
+                    "title": "2. Andante", 
+                    "durationR": "7:12", 
+                    "duration": 432, 
+                    "start": 2928
+                }, 
+                {
+                    "track": "7", 
+                    "title": "3. Scherzo. Allegro leggierissimo", 
+                    "durationR": "4:42", 
+                    "duration": 282, 
+                    "start": 3360
+                }, 
+                {
+                    "track": "8", 
+                    "title": "4. Presto", 
+                    "durationR": "14:09", 
+                    "duration": 849, 
+                    "start": 3642
+                }
+            ]
+        }
+    ], 
+    "catalogue": "456330-2", 
+    "cd": "2"
+}

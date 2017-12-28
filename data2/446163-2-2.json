@@ -1,0 +1,47 @@
+{
+    "title": "Track Listing - Disc 2", 
+    "performances": [
+        {
+            "title": "String Quartet No. 15 in G major, D. 887 (Op. posth. 161)", 
+            "movements": [
+                {
+                    "track": "1", 
+                    "title": "1. Allegro molto moderato", 
+                    "durationR": "22:58", 
+                    "duration": 1378, 
+                    "start": 0
+                }, 
+                {
+                    "track": "2", 
+                    "title": "2. Andante un poco moto", 
+                    "durationR": "13:37", 
+                    "duration": 817, 
+                    "start": 1378
+                }, 
+                {
+                    "track": "3", 
+                    "title": "3. Scherzo. Allegro vivace", 
+                    "durationR": "7:25", 
+                    "duration": 445, 
+                    "start": 2195
+                }, 
+                {
+                    "track": "4", 
+                    "title": "4. Allegro assai", 
+                    "durationR": "11:26", 
+                    "duration": 686, 
+                    "start": 2640
+                }, 
+                {
+                    "track": "5", 
+                    "title": "String Quartet No. 12 in C minor (\"Quartettsatz\"), D. 703", 
+                    "durationR": "10:55", 
+                    "duration": 655, 
+                    "start": 3326
+                }
+            ]
+        }
+    ], 
+    "catalogue": "446163-2", 
+    "cd": "2"
+}

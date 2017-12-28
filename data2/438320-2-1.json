@@ -1,0 +1,40 @@
+{
+    "title": "Track Listing - Disc 1", 
+    "performances": [
+        {
+            "title": "Piano Concerto No. 1 in D minor, Op. 15", 
+            "movements": [
+                {
+                    "track": "1", 
+                    "title": "Maestoso", 
+                    "durationR": "24:14", 
+                    "duration": 1454, 
+                    "start": 0
+                }, 
+                {
+                    "track": "2", 
+                    "title": "Adagio", 
+                    "durationR": "15:48", 
+                    "duration": 948, 
+                    "start": 1454
+                }, 
+                {
+                    "track": "3", 
+                    "title": "Rondo", 
+                    "durationR": "13:00", 
+                    "duration": 780, 
+                    "start": 2402
+                }, 
+                {
+                    "track": "4", 
+                    "title": "Variations on a Theme of Haydn for orchestra in B flat major (St. Anthony Variations), Op. 56a", 
+                    "durationR": "19:14", 
+                    "duration": 1154, 
+                    "start": 3182
+                }
+            ]
+        }
+    ], 
+    "catalogue": "438320-2", 
+    "cd": "1"
+}

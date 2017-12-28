@@ -1,0 +1,138 @@
+{
+    "title": "Track Listing - Disc 1", 
+    "performances": [
+        {
+            "title": "The Sleeping Beauty, ballet, Op. 66", 
+            "movements": [
+                {
+                    "track": "1", 
+                    "title": "Introduction", 
+                    "durationR": "3:03", 
+                    "duration": 183, 
+                    "start": 0
+                }, 
+                {
+                    "track": "2", 
+                    "title": "No. 1, Prologue-Marche", 
+                    "durationR": "4:49", 
+                    "duration": 289, 
+                    "start": 183
+                }, 
+                {
+                    "track": "3", 
+                    "title": "No. 2, Prologue-Sc\u00e8ne Dansante", 
+                    "durationR": "3:52", 
+                    "duration": 232, 
+                    "start": 472
+                }, 
+                {
+                    "track": "4", 
+                    "title": "No. 3, Prologue- Pas De Six", 
+                    "durationR": "4:06", 
+                    "duration": 246, 
+                    "start": 704
+                }, 
+                {
+                    "track": "5", 
+                    "title": "No. 3, Prologue- Variations 1-6; Coda", 
+                    "durationR": "6:31", 
+                    "duration": 391, 
+                    "start": 950
+                }, 
+                {
+                    "track": "6", 
+                    "title": "No. 4, Prologue- Final", 
+                    "durationR": "9:14", 
+                    "duration": 554, 
+                    "start": 1341
+                }, 
+                {
+                    "track": "7", 
+                    "title": "Act 1. No. 5.: Sc\u00e8ne", 
+                    "durationR": "7:28", 
+                    "duration": 448, 
+                    "start": 1895
+                }, 
+                {
+                    "track": "8", 
+                    "title": "Act 1. No. 5.: Valse", 
+                    "durationR": "4:41", 
+                    "duration": 281, 
+                    "start": 2343
+                }, 
+                {
+                    "track": "9", 
+                    "title": "Act 1. No. 7.: Sc\u00e8ne", 
+                    "durationR": "2:05", 
+                    "duration": 125, 
+                    "start": 2624
+                }, 
+                {
+                    "track": "10", 
+                    "title": "Act 1. No. 8.: Pas D'Action", 
+                    "durationR": "5:54", 
+                    "duration": 354, 
+                    "start": 2749
+                }, 
+                {
+                    "track": "11", 
+                    "title": "Act 1. No. 8.: Danse Des Demoiselles D'Honneur Et Des Pages", 
+                    "durationR": "2:03", 
+                    "duration": 123, 
+                    "start": 3103
+                }, 
+                {
+                    "track": "12", 
+                    "title": "Act 1. No. 8.: Variation D'Aurore", 
+                    "durationR": "3:16", 
+                    "duration": 196, 
+                    "start": 3226
+                }, 
+                {
+                    "track": "13", 
+                    "title": "Act 1. No. 8.: Coda", 
+                    "durationR": "2:28", 
+                    "duration": 148, 
+                    "start": 3422
+                }, 
+                {
+                    "track": "14", 
+                    "title": "Act 1. No. 9.: Final", 
+                    "durationR": "7:58", 
+                    "duration": 478, 
+                    "start": 3570
+                }, 
+                {
+                    "track": "15", 
+                    "title": "Act 2. No. 10.: Entracte Et Sc\u00e8ne", 
+                    "durationR": "3:10", 
+                    "duration": 190, 
+                    "start": 4048
+                }, 
+                {
+                    "track": "16", 
+                    "title": "Act 2. No. 11.: Colin-Maillard", 
+                    "durationR": "1:48", 
+                    "duration": 108, 
+                    "start": 4238
+                }, 
+                {
+                    "track": "17", 
+                    "title": "Act 2. No. 12.: Sc\u00e8ne", 
+                    "durationR": "4:16", 
+                    "duration": 256, 
+                    "start": 4346
+                }, 
+                {
+                    "track": "18", 
+                    "title": "Act 2. No. 13.: Farandole", 
+                    "durationR": "1:41", 
+                    "duration": 101, 
+                    "start": 4602
+                }
+            ]
+        }
+    ], 
+    "catalogue": "446166-2", 
+    "cd": "1"
+}

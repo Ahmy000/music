@@ -1,0 +1,290 @@
+{
+    "title": "Track Listing - Disc 1", 
+    "performances": [
+        {
+            "title": "Concerti \u00e0 cinque (12), for 3 violins, 2 violas, cello & continuo, Op. 5 (T. 5)", 
+            "movements": [
+                {
+                    "track": "1", 
+                    "title": "No. 1 in B flat. 1. Allegro moderato", 
+                    "durationR": "2:07", 
+                    "duration": 127, 
+                    "start": 0
+                }, 
+                {
+                    "track": "2", 
+                    "title": "No. 1 in B flat. 2. Adagio", 
+                    "durationR": "1:24", 
+                    "duration": 84, 
+                    "start": 127
+                }, 
+                {
+                    "track": "3", 
+                    "title": "No. 1 in B flat. 3. Allegro vivace", 
+                    "durationR": "1:40", 
+                    "duration": 100, 
+                    "start": 211
+                }, 
+                {
+                    "track": "4", 
+                    "title": "No. 2 In F. 1. Allegro", 
+                    "durationR": "1:22", 
+                    "duration": 82, 
+                    "start": 311
+                }, 
+                {
+                    "track": "5", 
+                    "title": "No. 2 In F. 2. Largo", 
+                    "durationR": "2:49", 
+                    "duration": 169, 
+                    "start": 393
+                }, 
+                {
+                    "track": "6", 
+                    "title": "No. 2 In F. 3. Allegro assai", 
+                    "durationR": "2:10", 
+                    "duration": 130, 
+                    "start": 562
+                }, 
+                {
+                    "track": "7", 
+                    "title": "No. 3 in D. 1. Allegro", 
+                    "durationR": "1:52", 
+                    "duration": 112, 
+                    "start": 692
+                }, 
+                {
+                    "track": "8", 
+                    "title": "No. 3 in D. 2. Adagio", 
+                    "durationR": "0:37", 
+                    "duration": 37, 
+                    "start": 804
+                }, 
+                {
+                    "track": "9", 
+                    "title": "No. 3 in D. 3. Presto - Adagio", 
+                    "durationR": "2:04", 
+                    "duration": 124, 
+                    "start": 841
+                }, 
+                {
+                    "track": "10", 
+                    "title": "No. 3 in D. 4. Allegro", 
+                    "durationR": "2:41", 
+                    "duration": 161, 
+                    "start": 965
+                }, 
+                {
+                    "track": "11", 
+                    "title": "No. 4 in G. 1. Allegro", 
+                    "durationR": "1:57", 
+                    "duration": 117, 
+                    "start": 1126
+                }, 
+                {
+                    "track": "12", 
+                    "title": "No. 4 in G. 2. Adagio", 
+                    "durationR": "1:02", 
+                    "duration": 62, 
+                    "start": 1243
+                }, 
+                {
+                    "track": "13", 
+                    "title": "No. 4 in G. 3. Allegro", 
+                    "durationR": "2:06", 
+                    "duration": 126, 
+                    "start": 1305
+                }, 
+                {
+                    "track": "14", 
+                    "title": "No. 5 in A minor. 1. Allegro", 
+                    "durationR": "2:17", 
+                    "duration": 137, 
+                    "start": 1431
+                }, 
+                {
+                    "track": "15", 
+                    "title": "No. 5 in A minor. 2. Adagio", 
+                    "durationR": "3:07", 
+                    "duration": 187, 
+                    "start": 1568
+                }, 
+                {
+                    "track": "16", 
+                    "title": "No. 5 in A minor. 3. Allegro", 
+                    "durationR": "1:54", 
+                    "duration": 114, 
+                    "start": 1755
+                }, 
+                {
+                    "track": "17", 
+                    "title": "No. 6 in C. 1. Allegro", 
+                    "durationR": "2:32", 
+                    "duration": 152, 
+                    "start": 1869
+                }, 
+                {
+                    "track": "18", 
+                    "title": "No. 6 in C. 2. Adagio - Presto - Adagio", 
+                    "durationR": "1:50", 
+                    "duration": 110, 
+                    "start": 2021
+                }, 
+                {
+                    "track": "19", 
+                    "title": "No. 6 in C. 3. Allegro", 
+                    "durationR": "2:05", 
+                    "duration": 125, 
+                    "start": 2131
+                }, 
+                {
+                    "track": "20", 
+                    "title": "No. 7 in D minor. 1. Allegro", 
+                    "durationR": "2:35", 
+                    "duration": 155, 
+                    "start": 2256
+                }, 
+                {
+                    "track": "21", 
+                    "title": "No. 7 in D minor. 2. Adagio", 
+                    "durationR": "1:20", 
+                    "duration": 80, 
+                    "start": 2411
+                }, 
+                {
+                    "track": "22", 
+                    "title": "No. 7 in D minor. 3. Allegro", 
+                    "durationR": "1:54", 
+                    "duration": 114, 
+                    "start": 2491
+                }, 
+                {
+                    "track": "23", 
+                    "title": "No. 8 in F. 1. Allegro", 
+                    "durationR": "2:03", 
+                    "duration": 123, 
+                    "start": 2605
+                }, 
+                {
+                    "track": "24", 
+                    "title": "No. 8 in F. 2. Adagio", 
+                    "durationR": "3:20", 
+                    "duration": 200, 
+                    "start": 2728
+                }, 
+                {
+                    "track": "25", 
+                    "title": "No. 8 in F. 3. Allegro assai", 
+                    "durationR": "2:23", 
+                    "duration": 143, 
+                    "start": 2928
+                }, 
+                {
+                    "track": "26", 
+                    "title": "No. 9 in E minor. 1. Allegro", 
+                    "durationR": "1:18", 
+                    "duration": 78, 
+                    "start": 3071
+                }, 
+                {
+                    "track": "27", 
+                    "title": "No. 9 in E minor. 2. Adagio - Presto - Adagio", 
+                    "durationR": "1:08", 
+                    "duration": 68, 
+                    "start": 3149
+                }, 
+                {
+                    "track": "28", 
+                    "title": "No. 9 in E minor. 3. Allegro assai", 
+                    "durationR": "1:43", 
+                    "duration": 103, 
+                    "start": 3217
+                }, 
+                {
+                    "track": "29", 
+                    "title": "No. 10 in A. 1. Allegro", 
+                    "durationR": "1:46", 
+                    "duration": 106, 
+                    "start": 3320
+                }, 
+                {
+                    "track": "30", 
+                    "title": "No. 10 in A. 2. Adagio", 
+                    "durationR": "1:25", 
+                    "duration": 85, 
+                    "start": 3426
+                }, 
+                {
+                    "track": "31", 
+                    "title": "No. 10 in A. 3. Allegro", 
+                    "durationR": "1:51", 
+                    "duration": 111, 
+                    "start": 3511
+                }, 
+                {
+                    "track": "32", 
+                    "title": "No. 11 in G minor. 1. Allegro", 
+                    "durationR": "2:19", 
+                    "duration": 139, 
+                    "start": 3622
+                }, 
+                {
+                    "track": "33", 
+                    "title": "No. 11 in G minor. 2. Largo", 
+                    "durationR": "2:46", 
+                    "duration": 166, 
+                    "start": 3761
+                }, 
+                {
+                    "track": "34", 
+                    "title": "No. 11 in G minor. 3. Allegro", 
+                    "durationR": "2:34", 
+                    "duration": 154, 
+                    "start": 3927
+                }, 
+                {
+                    "track": "35", 
+                    "title": "No. 12 in C. 1. Allegro", 
+                    "durationR": "2:19", 
+                    "duration": 139, 
+                    "start": 4081
+                }, 
+                {
+                    "track": "36", 
+                    "title": "No. 12 in C. 2. Adagio - Presto - Adagio", 
+                    "durationR": "2:39", 
+                    "duration": 159, 
+                    "start": 4220
+                }, 
+                {
+                    "track": "37", 
+                    "title": "No. 12 in C. 3. Allegro", 
+                    "durationR": "2:19", 
+                    "duration": 139, 
+                    "start": 4379
+                }
+            ]
+        }, 
+        {
+            "title": "Concerti \u00e0 cinque (12), for 2 oboes, 2 violins, viola, cello & continuo, Op. 7 (T. 7)", 
+            "movements": [
+                {
+                    "track": "38", 
+                    "title": "No. 1 in D for strings and continuo. 1. (Allegro)", 
+                    "durationR": "3:06", 
+                    "duration": 186, 
+                    "start": 4518
+                }, 
+                {
+                    "track": "39", 
+                    "title": "No. 1 in D for strings and continuo. 2. Adagio e staccato - 3. Allegro assai", 
+                    "durationR": "1:18", 
+                    "duration": 78, 
+                    "start": 4704
+                }
+            ]
+        }
+    ], 
+    "catalogue": "464052-2", 
+    "cd": "1"
+}

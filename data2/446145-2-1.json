@@ -1,0 +1,47 @@
+{
+    "title": "Track Listing - Disc 1", 
+    "performances": [
+        {
+            "title": "Piano Sonata No. 2 in B flat minor, Op. 35, CT. 202", 
+            "movements": [
+                {
+                    "track": "14", 
+                    "title": "[Excerpt]", 
+                    "durationR": "9:19", 
+                    "duration": 559, 
+                    "start": 2440
+                }, 
+                {
+                    "track": "15", 
+                    "title": "Scherzo for piano No. 2 in B flat minor, Op. 31, CT. 198", 
+                    "durationR": "10:04", 
+                    "duration": 604, 
+                    "start": 2999
+                }, 
+                {
+                    "track": "16", 
+                    "title": "Berceuse for piano in D flat major, Op. 57, CT. 7", 
+                    "durationR": "4:45", 
+                    "duration": 285, 
+                    "start": 3603
+                }, 
+                {
+                    "track": "17", 
+                    "title": "Waltz for piano No. 6 in D flat major (\"Minute\"), Op. 64/1, CT. 212", 
+                    "durationR": "1:39", 
+                    "duration": 99, 
+                    "start": 3888
+                }, 
+                {
+                    "track": "18", 
+                    "title": "Ballade for piano No. 4 in F minor, Op. 52, CT. 5", 
+                    "durationR": "12:05", 
+                    "duration": 725, 
+                    "start": 3987
+                }
+            ]
+        }
+    ], 
+    "catalogue": "446145-2", 
+    "cd": "1"
+}

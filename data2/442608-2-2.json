@@ -1,0 +1,59 @@
+{
+    "title": "Track Listing - Disc 2", 
+    "performances": [
+        {
+            "title": "Piano Concerto No.4 in C minor, Op.44", 
+            "movements": [
+                {
+                    "track": "3", 
+                    "title": "1. Allegro moderato - Andante", 
+                    "durationR": "11:01", 
+                    "duration": 661, 
+                    "start": 749
+                }, 
+                {
+                    "track": "4", 
+                    "title": "2. Allegro vivace - Andante - Allegro", 
+                    "durationR": "13:47", 
+                    "duration": 827, 
+                    "start": 1410
+                }
+            ]
+        }, 
+        {
+            "title": "Symphony No.3 in C minor, Op.78 \"Organ Symphony\"", 
+            "movements": [
+                {
+                    "track": "5", 
+                    "title": "1a. Adagio - Allegro moderato -", 
+                    "durationR": "9:50", 
+                    "duration": 590, 
+                    "start": 2237
+                }, 
+                {
+                    "track": "6", 
+                    "title": "1b. Poco adagio", 
+                    "durationR": "10:20", 
+                    "duration": 620, 
+                    "start": 2827
+                }, 
+                {
+                    "track": "7", 
+                    "title": "2. Allegro moderato - Presto - Allegro moderato - Maestoso - Pi\u00f9 allegro - Molto allegro", 
+                    "durationR": "7:25", 
+                    "duration": 445, 
+                    "start": 3447
+                }, 
+                {
+                    "track": "8", 
+                    "title": "2b. Maestoso - Pi\u00f9 allegro - Molto allegro", 
+                    "durationR": "7:55", 
+                    "duration": 475, 
+                    "start": 3892
+                }
+            ]
+        }
+    ], 
+    "catalogue": "442608-2", 
+    "cd": "2"
+}

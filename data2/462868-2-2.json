@@ -1,0 +1,92 @@
+{
+    "title": "Track Listing - Disc 2", 
+    "performances": [
+        {
+            "title": "Clarinet Concerto No. 1 in F minor, J. 114 (Op. 73)", 
+            "movements": [
+                {
+                    "track": "2", 
+                    "title": "No. 1, Allegro moderato", 
+                    "durationR": "9:29", 
+                    "duration": 569, 
+                    "start": 215
+                }, 
+                {
+                    "track": "3", 
+                    "title": "No. 2, Adagio ma non troppo", 
+                    "durationR": "6:45", 
+                    "duration": 405, 
+                    "start": 784
+                }, 
+                {
+                    "track": "4", 
+                    "title": "No. 3, Rondo Allegretto (Allegro)", 
+                    "durationR": "7:29", 
+                    "duration": 449, 
+                    "start": 1189
+                }
+            ]
+        }, 
+        {
+            "title": "Clarinet Concerto No. 2 in E flat major, J. 118 (Op. 74)", 
+            "movements": [
+                {
+                    "track": "5", 
+                    "title": "No. 1, Allegro", 
+                    "durationR": "9:20", 
+                    "duration": 560, 
+                    "start": 1638
+                }, 
+                {
+                    "track": "6", 
+                    "title": "No. 2, Romanze. Adante. Andante con moto", 
+                    "durationR": "7:31", 
+                    "duration": 451, 
+                    "start": 2198
+                }, 
+                {
+                    "track": "7", 
+                    "title": "No. 3, Alla Polacca", 
+                    "durationR": "7:36", 
+                    "duration": 456, 
+                    "start": 2649
+                }
+            ]
+        }, 
+        {
+            "title": "Quintet for clarinet & strings in B flat major, J. 182 (Op. 34)", 
+            "movements": [
+                {
+                    "track": "8", 
+                    "title": "No. 1, Allegro", 
+                    "durationR": "7:29", 
+                    "duration": 449, 
+                    "start": 3105
+                }, 
+                {
+                    "track": "9", 
+                    "title": "No. 2, Fantasia. Adagio", 
+                    "durationR": "5:51", 
+                    "duration": 351, 
+                    "start": 3554
+                }, 
+                {
+                    "track": "10", 
+                    "title": "No. 3, Menuetto", 
+                    "durationR": "4:45", 
+                    "duration": 285, 
+                    "start": 3905
+                }, 
+                {
+                    "track": "11", 
+                    "title": "No. 4, Rondo. Allegro giojoso", 
+                    "durationR": "6:50", 
+                    "duration": 410, 
+                    "start": 4190
+                }
+            ]
+        }
+    ], 
+    "catalogue": "462868-2", 
+    "cd": "2"
+}

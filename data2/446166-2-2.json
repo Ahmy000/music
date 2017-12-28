@@ -1,0 +1,180 @@
+{
+    "title": "Track Listing - Disc 2", 
+    "performances": [
+        {
+            "title": "The Sleeping Beauty, ballet, Op. 66", 
+            "movements": [
+                {
+                    "track": "1", 
+                    "title": "Act 2. No. 14.: Sc\u00e8ne", 
+                    "durationR": "5:48", 
+                    "duration": 348, 
+                    "start": 0
+                }, 
+                {
+                    "track": "2", 
+                    "title": "Act 2. No. 15.: Pas D'Action", 
+                    "durationR": "4:31", 
+                    "duration": 271, 
+                    "start": 348
+                }, 
+                {
+                    "track": "3", 
+                    "title": "Act 2. No. 15.: Variation D'Aurore", 
+                    "durationR": "1:12", 
+                    "duration": 72, 
+                    "start": 619
+                }, 
+                {
+                    "track": "4", 
+                    "title": "Act 2. No. 15.: Coda", 
+                    "durationR": "1:19", 
+                    "duration": 79, 
+                    "start": 691
+                }, 
+                {
+                    "track": "5", 
+                    "title": "Act 2. No. 16.: Sc\u00e8ne", 
+                    "durationR": "0:50", 
+                    "duration": 50, 
+                    "start": 770
+                }, 
+                {
+                    "track": "6", 
+                    "title": "Act 2. No. 17.: Panorama", 
+                    "durationR": "2:35", 
+                    "duration": 155, 
+                    "start": 820
+                }, 
+                {
+                    "track": "7", 
+                    "title": "Act 2. No. 19.: Entracte Symphonique", 
+                    "durationR": "8:53", 
+                    "duration": 533, 
+                    "start": 975
+                }, 
+                {
+                    "track": "8", 
+                    "title": "Act 2. No. 20.: Final", 
+                    "durationR": "3:10", 
+                    "duration": 190, 
+                    "start": 1508
+                }, 
+                {
+                    "track": "9", 
+                    "title": "Act 3. No. 21.: Marche", 
+                    "durationR": "4:15", 
+                    "duration": 255, 
+                    "start": 1698
+                }, 
+                {
+                    "track": "10", 
+                    "title": "Act 3. No. 22.: Polacca", 
+                    "durationR": "4:48", 
+                    "duration": 288, 
+                    "start": 1953
+                }, 
+                {
+                    "track": "11", 
+                    "title": "Act 3. No. 23.: Pas De Quartre", 
+                    "durationR": "1:48", 
+                    "duration": 108, 
+                    "start": 2241
+                }, 
+                {
+                    "track": "12", 
+                    "title": "Act 3. No. 23.: Variations I-4; Coda", 
+                    "durationR": "4:32", 
+                    "duration": 272, 
+                    "start": 2349
+                }, 
+                {
+                    "track": "13", 
+                    "title": "Act 3. No. 24.: Pas De Caract\u00e8re", 
+                    "durationR": "1:48", 
+                    "duration": 108, 
+                    "start": 2621
+                }, 
+                {
+                    "track": "14", 
+                    "title": "Act 3. No. 25.: Pas De Quatre", 
+                    "durationR": "1:59", 
+                    "duration": 119, 
+                    "start": 2729
+                }, 
+                {
+                    "track": "15", 
+                    "title": "Act 3. No. 25.: Variations 1-2; Coda", 
+                    "durationR": "3:19", 
+                    "duration": 199, 
+                    "start": 2848
+                }, 
+                {
+                    "track": "16", 
+                    "title": "Act 3. No. 26.: Pas De Caract\u00e8re", 
+                    "durationR": "1:23", 
+                    "duration": 83, 
+                    "start": 3047
+                }, 
+                {
+                    "track": "17", 
+                    "title": "Act 3. No. 26.: Cendrillon Et Le Prince Fortune", 
+                    "durationR": "2:40", 
+                    "duration": 160, 
+                    "start": 3130
+                }, 
+                {
+                    "track": "18", 
+                    "title": "Act 3. No. 27.: Pas Berrichon/ No. 28.: Pas De Deux", 
+                    "durationR": "1:11", 
+                    "duration": 71, 
+                    "start": 3290
+                }, 
+                {
+                    "track": "19", 
+                    "title": "Act 3. No. 28.: Entr\u00e9e", 
+                    "durationR": "1:35", 
+                    "duration": 95, 
+                    "start": 3361
+                }, 
+                {
+                    "track": "20", 
+                    "title": "Act 3. No. 28.: Adagio", 
+                    "durationR": "4:09", 
+                    "duration": 249, 
+                    "start": 3456
+                }, 
+                {
+                    "track": "21", 
+                    "title": "Act 3. No. 28.: Variations 1-2; Coda", 
+                    "durationR": "4:32", 
+                    "duration": 272, 
+                    "start": 3705
+                }, 
+                {
+                    "track": "22", 
+                    "title": "Act 3. No. 29.: Sarabande", 
+                    "durationR": "2:06", 
+                    "duration": 126, 
+                    "start": 3977
+                }, 
+                {
+                    "track": "23", 
+                    "title": "Act 3. No. 30.: Final", 
+                    "durationR": "5:53", 
+                    "duration": 353, 
+                    "start": 4103
+                }, 
+                {
+                    "track": "24", 
+                    "title": "Act 3. No. 30.: Apoth\u00e9ose", 
+                    "durationR": "3:07", 
+                    "duration": 187, 
+                    "start": 4456
+                }
+            ]
+        }
+    ], 
+    "catalogue": "446166-2", 
+    "cd": "2"
+}

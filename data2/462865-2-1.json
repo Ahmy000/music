@@ -1,0 +1,73 @@
+{
+    "title": "Track Listing - Disc 1", 
+    "performances": [
+        {
+            "title": "Violin Concerto No. 1 in E flat major (usually transposed to D major), Op. 6, MS 21", 
+            "movements": [
+                {
+                    "track": "1", 
+                    "title": "1. Allegro maestoso", 
+                    "durationR": "18:52", 
+                    "duration": 1132, 
+                    "start": 0
+                }, 
+                {
+                    "track": "2", 
+                    "title": "2. Adagio", 
+                    "durationR": "5:03", 
+                    "duration": 303, 
+                    "start": 1132
+                }, 
+                {
+                    "track": "3", 
+                    "title": "3. Rondo. Allegro spirituoso", 
+                    "durationR": "6:13", 
+                    "duration": 373, 
+                    "start": 1435
+                }, 
+                {
+                    "track": "4", 
+                    "title": "I palpiti, introduction & variations on \"Di tanti palpiti\" from Rossini's \"Tancredi,\" for violin & orchestra, Op. 13, MS 77", 
+                    "durationR": "11:02", 
+                    "duration": 662, 
+                    "start": 1808
+                }, 
+                {
+                    "track": "5", 
+                    "title": "Le streghe, variations for violin & orchestra in E flat major, Op. 8, MS 19", 
+                    "durationR": "9:30", 
+                    "duration": 570, 
+                    "start": 2470
+                }
+            ]
+        }, 
+        {
+            "title": "Violin Concerto No. 4 in D minor, MS 60", 
+            "movements": [
+                {
+                    "track": "6", 
+                    "title": "1. Allegro maestoso", 
+                    "durationR": "15:07", 
+                    "duration": 907, 
+                    "start": 3040
+                }, 
+                {
+                    "track": "7", 
+                    "title": "2. Adagio flebile con sentimento", 
+                    "durationR": "5:08", 
+                    "duration": 308, 
+                    "start": 3947
+                }, 
+                {
+                    "track": "8", 
+                    "title": "3. Rondo galante. Andantino gaio", 
+                    "durationR": "7:52", 
+                    "duration": 472, 
+                    "start": 4255
+                }
+            ]
+        }
+    ], 
+    "catalogue": "462865-2", 
+    "cd": "1"
+}
