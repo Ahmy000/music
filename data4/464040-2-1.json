@@ -1,0 +1,101 @@
+{
+    "title": "Track Listing - Disc 1", 
+    "performances": [
+        {
+            "movements": [
+                {
+                    "track": "1", 
+                    "title": "Chamber Symphony No. 1 in E major, Op. 9", 
+                    "durationR": "20:39", 
+                    "duration": 1239, 
+                    "start": 0
+                }
+            ], 
+            "title": "No Performance"
+        }, 
+        {
+            "movements": [
+                {
+                    "track": "2", 
+                    "title": "Pt. 1, Orchestral Prelude", 
+                    "durationR": "6:55", 
+                    "duration": 415, 
+                    "start": 1239
+                }, 
+                {
+                    "track": "3", 
+                    "title": "Pt. 1, Nun d\u00e4mpft die D\u00e4mm 'rung", 
+                    "durationR": "3:27", 
+                    "duration": 207, 
+                    "start": 1654
+                }, 
+                {
+                    "track": "4", 
+                    "title": "Pt. 1, O, wenn des Mondes Strahlen", 
+                    "durationR": "3:14", 
+                    "duration": 194, 
+                    "start": 1861
+                }, 
+                {
+                    "track": "5", 
+                    "title": "Pt. 1, Ro\u00df! Mein Ro\u00df!", 
+                    "durationR": "3:11", 
+                    "duration": 191, 
+                    "start": 2055
+                }, 
+                {
+                    "track": "6", 
+                    "title": "Pt. 1, Sterne jubeln", 
+                    "durationR": "2:19", 
+                    "duration": 139, 
+                    "start": 2246
+                }, 
+                {
+                    "track": "7", 
+                    "title": "Pt. 1, So tanzen die Engel vor Gottes Thron nicht", 
+                    "durationR": "2:01", 
+                    "duration": 121, 
+                    "start": 2385
+                }, 
+                {
+                    "track": "8", 
+                    "title": "Pt. 1, Nun sag ich dir zum ersten Mal", 
+                    "durationR": "3:43", 
+                    "duration": 223, 
+                    "start": 2506
+                }, 
+                {
+                    "track": "9", 
+                    "title": "Pt. 1, Es ist Mitternachtszeit", 
+                    "durationR": "5:01", 
+                    "duration": 301, 
+                    "start": 2729
+                }, 
+                {
+                    "track": "10", 
+                    "title": "Pt. 1, Du sendest mir einen Liebesblick", 
+                    "durationR": "5:09", 
+                    "duration": 309, 
+                    "start": 3030
+                }, 
+                {
+                    "track": "11", 
+                    "title": "Pt. 1, Du wunderliche Tove!/Orchestral Interlude", 
+                    "durationR": "8:59", 
+                    "duration": 539, 
+                    "start": 3339
+                }, 
+                {
+                    "track": "12", 
+                    "title": "Pt. 1, Tauben von Gurre!", 
+                    "durationR": "12:05", 
+                    "duration": 725, 
+                    "start": 3878
+                }
+            ], 
+            "title": "Gurrelieder, oratorio for 5 soloists, reciter, chorus & orchestra"
+        }
+    ], 
+    "catalogue": "464040-2", 
+    "cd": "1"
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Track Listing - Disc 8", 
+    "performances": [
+        {
+            "movements": [
+                {
+                    "track": "1", 
+                    "title": "1. Allegro", 
+                    "durationR": "13:35", 
+                    "duration": 815, 
+                    "start": 0
+                }, 
+                {
+                    "track": "2", 
+                    "title": "2. Andante", 
+                    "durationR": "9:50", 
+                    "duration": 590, 
+                    "start": 815
+                }, 
+                {
+                    "track": "3", 
+                    "title": "3. Allegro - Andantino cantabile - Primo tempo", 
+                    "durationR": "12:11", 
+                    "duration": 731, 
+                    "start": 1405
+                }
+            ], 
+            "title": "Concerto No. 22 in E flat major, K 482"
+        }, 
+        {
+            "movements": [
+                {
+                    "track": "4", 
+                    "title": "1. Allegro", 
+                    "durationR": "11:43", 
+                    "duration": 703, 
+                    "start": 2136
+                }, 
+                {
+                    "track": "5", 
+                    "title": "2. Adagio", 
+                    "durationR": "6:24", 
+                    "duration": 384, 
+                    "start": 2839
+                }, 
+                {
+                    "track": "6", 
+                    "title": "3. Allegro assai", 
+                    "durationR": "8:02", 
+                    "duration": 482, 
+                    "start": 3223
+                }, 
+                {
+                    "track": "7", 
+                    "title": "Rondo in A minor, for solo piano, K 511", 
+                    "durationR": "9:15", 
+                    "duration": 555, 
+                    "start": 3705
+                }
+            ], 
+            "title": "Concerto No. 23 in A major, K 488"
+        }
+    ], 
+    "catalogue": "256462332-2", 
+    "cd": "8"
+}

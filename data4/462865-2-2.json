@@ -1,0 +1,87 @@
+{
+    "title": "Track Listing - Disc 2", 
+    "performances": [
+        {
+            "movements": [
+                {
+                    "track": "1", 
+                    "title": "1. Allegro maestoso", 
+                    "durationR": "13:09", 
+                    "duration": 789, 
+                    "start": 0
+                }, 
+                {
+                    "track": "2", 
+                    "title": "2. Adagio", 
+                    "durationR": "5:55", 
+                    "duration": 355, 
+                    "start": 789
+                }, 
+                {
+                    "track": "3", 
+                    "title": "3. Rondo \u00e0 la clochette, \"La campanella\"", 
+                    "durationR": "8:17", 
+                    "duration": 497, 
+                    "start": 1144
+                }, 
+                {
+                    "track": "4", 
+                    "title": "Caprice for solo violin in B flat major (\"The Devil's Chuckle\"), Op. 1/13, MS 25/13", 
+                    "durationR": "3:04", 
+                    "duration": 184, 
+                    "start": 1641
+                }, 
+                {
+                    "track": "5", 
+                    "title": "Caprice for solo violin in D major (Allegretto), Op. 1/20, MS 25/20", 
+                    "durationR": "3:36", 
+                    "duration": 216, 
+                    "start": 1825
+                }, 
+                {
+                    "track": "6", 
+                    "title": "Caprice for solo violin in A minor (Theme & Variations), Op. 1/24, MS 25/24", 
+                    "durationR": "6:20", 
+                    "duration": 380, 
+                    "start": 2041
+                }
+            ], 
+            "title": "Violin Concerto No. 2 in B minor (\"La campanella\"), Op. 7, MS 48"
+        }, 
+        {
+            "movements": [
+                {
+                    "track": "7", 
+                    "title": "1. Introlduzione. Andante - Allegro marziale", 
+                    "durationR": "17:18", 
+                    "duration": 1038, 
+                    "start": 2421
+                }, 
+                {
+                    "track": "8", 
+                    "title": "2. Adagio. Cantabile spianato", 
+                    "durationR": "5:49", 
+                    "duration": 349, 
+                    "start": 3459
+                }, 
+                {
+                    "track": "9", 
+                    "title": "3. Polacca. Andantion vivace", 
+                    "durationR": "10:39", 
+                    "duration": 639, 
+                    "start": 3808
+                }, 
+                {
+                    "track": "10", 
+                    "title": "Moto perpetuo, for violin & guitar (or orchestra) in C major, Op. 11, MS 72", 
+                    "durationR": "3:45", 
+                    "duration": 225, 
+                    "start": 4447
+                }
+            ], 
+            "title": "Violin Concerto No. 3 in E major, MS 50"
+        }
+    ], 
+    "catalogue": "462865-2", 
+    "cd": "2"
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Track Listing - Disc 2", 
+    "performances": [
+        {
+            "movements": [
+                {
+                    "track": "1", 
+                    "title": "1. Allegro", 
+                    "durationR": "11:42", 
+                    "duration": 702, 
+                    "start": 0
+                }, 
+                {
+                    "track": "2", 
+                    "title": "2. Scherzo (Assai vivace - Presto - Prestissimo - Tempo I)", 
+                    "durationR": "2:39", 
+                    "duration": 159, 
+                    "start": 702
+                }, 
+                {
+                    "track": "3", 
+                    "title": "3. Adagio sostenuto", 
+                    "durationR": "19:37", 
+                    "duration": 1177, 
+                    "start": 861
+                }, 
+                {
+                    "track": "4", 
+                    "title": "4. Largo - Allegro risoluto", 
+                    "durationR": "12:16", 
+                    "duration": 736, 
+                    "start": 2038
+                }
+            ], 
+            "title": "Piano Sonata No.29 in B flat, Op.106 -\"Hammerklavier\""
+        }, 
+        {
+            "movements": [
+                {
+                    "track": "5", 
+                    "title": "1a. Maestoso -", 
+                    "durationR": "1:51", 
+                    "duration": 111, 
+                    "start": 2774
+                }, 
+                {
+                    "track": "6", 
+                    "title": "1b. Allegro con brio ed appassionato", 
+                    "durationR": "7:10", 
+                    "duration": 430, 
+                    "start": 2885
+                }, 
+                {
+                    "track": "7", 
+                    "title": "2. Arietta (Adagio molto semplice e cantabile)", 
+                    "durationR": "17:20", 
+                    "duration": 1040, 
+                    "start": 3315
+                }
+            ], 
+            "title": "Piano Sonata No.32 in C minor, Op.111"
+        }
+    ], 
+    "catalogue": "438374-2", 
+    "cd": "2"
+}

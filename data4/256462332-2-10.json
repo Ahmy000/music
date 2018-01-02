@@ -1,0 +1,59 @@
+{
+    "title": "Track Listing - Disc 10", 
+    "performances": [
+        {
+            "movements": [
+                {
+                    "track": "1", 
+                    "title": "1. Allegro", 
+                    "durationR": "15:16", 
+                    "duration": 916, 
+                    "start": 0
+                }, 
+                {
+                    "track": "2", 
+                    "title": "2. Larghetto", 
+                    "durationR": "6:29", 
+                    "duration": 389, 
+                    "start": 916
+                }, 
+                {
+                    "track": "3", 
+                    "title": "3. Allegretto", 
+                    "durationR": "11:24", 
+                    "duration": 684, 
+                    "start": 1305
+                }
+            ], 
+            "title": "Concerto No. 26 in D major, K 537 'Coronation'"
+        }, 
+        {
+            "movements": [
+                {
+                    "track": "4", 
+                    "title": "1. Allegro", 
+                    "durationR": "14:02", 
+                    "duration": 842, 
+                    "start": 1989
+                }, 
+                {
+                    "track": "5", 
+                    "title": "2. Larghetto", 
+                    "durationR": "8:04", 
+                    "duration": 484, 
+                    "start": 2831
+                }, 
+                {
+                    "track": "6", 
+                    "title": "3. Allegro", 
+                    "durationR": "9:12", 
+                    "duration": 552, 
+                    "start": 3315
+                }
+            ], 
+            "title": "Concerto No. 27 in B flat major, K 595"
+        }
+    ], 
+    "catalogue": "256462332-2", 
+    "cd": "10"
+}

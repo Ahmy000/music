@@ -1,0 +1,106 @@
+{
+    "title": "Track Listing - Disc 2", 
+    "performances": [
+        {
+            "movements": [
+                {
+                    "track": "1", 
+                    "title": "No. 1 in B minor", 
+                    "durationR": "9:08", 
+                    "duration": 548, 
+                    "start": 0
+                }
+            ], 
+            "title": "Rhapsodies (2) for piano, Op. 79"
+        }, 
+        {
+            "movements": [
+                {
+                    "track": "2", 
+                    "title": "No. 1 \"Capriccio\" in F sharp minor", 
+                    "durationR": "2:56", 
+                    "duration": 176, 
+                    "start": 548
+                }, 
+                {
+                    "track": "3", 
+                    "title": "No. 2 \"Capriccio\" in B minor", 
+                    "durationR": "2:48", 
+                    "duration": 168, 
+                    "start": 724
+                }, 
+                {
+                    "track": "4", 
+                    "title": "No. 3 \"Intermezzo\" in A flat major", 
+                    "durationR": "1:33", 
+                    "duration": 93, 
+                    "start": 892
+                }, 
+                {
+                    "track": "5", 
+                    "title": "No. 4 \"Intermezzo\" in B flat major", 
+                    "durationR": "2:16", 
+                    "duration": 136, 
+                    "start": 985
+                }, 
+                {
+                    "track": "6", 
+                    "title": "No. 5 \"Capriccio\" in C sharp minor", 
+                    "durationR": "2:55", 
+                    "duration": 175, 
+                    "start": 1121
+                }, 
+                {
+                    "track": "7", 
+                    "title": "No. 6 \"Intermezzo\" in A major", 
+                    "durationR": "3:07", 
+                    "duration": 187, 
+                    "start": 1296
+                }, 
+                {
+                    "track": "8", 
+                    "title": "No. 7 \"Intermezzo\" in A minor", 
+                    "durationR": "2:41", 
+                    "duration": 161, 
+                    "start": 1483
+                }, 
+                {
+                    "track": "9", 
+                    "title": "No. 8 \"Intermezzo\" in C major", 
+                    "durationR": "3:23", 
+                    "duration": 203, 
+                    "start": 1644
+                }, 
+                {
+                    "track": "10", 
+                    "title": "Variations (25) and Fugue on a Theme of Handel, for piano, in B flat major, Op. 24", 
+                    "durationR": "26:30", 
+                    "duration": 1590, 
+                    "start": 1847
+                }
+            ], 
+            "title": "Pieces (8) for piano, Op. 76"
+        }, 
+        {
+            "movements": [
+                {
+                    "track": "11", 
+                    "title": "Book 1", 
+                    "durationR": "11:18", 
+                    "duration": 678, 
+                    "start": 3437
+                }, 
+                {
+                    "track": "12", 
+                    "title": "Book 2", 
+                    "durationR": "9:36", 
+                    "duration": 576, 
+                    "start": 4115
+                }
+            ], 
+            "title": "Variations (28) on a Theme of Paganini, for piano, in A minor, Op. 35"
+        }
+    ], 
+    "catalogue": "442589-2", 
+    "cd": "2"
+}
