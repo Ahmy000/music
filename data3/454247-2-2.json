@@ -1,0 +1,140 @@
+{
+    "title": "Track Listing - Disc 2", 
+    "performances": [
+        {
+            "movements": [], 
+            "title": "No Performance"
+        }, 
+        {
+            "movements": [
+                {
+                    "track": "1", 
+                    "title": "1. Entrata. Allegro", 
+                    "durationR": "3:22", 
+                    "duration": 202, 
+                    "start": 0
+                }, 
+                {
+                    "track": "2", 
+                    "title": "2. Tempo ordinario d'un minuetto", 
+                    "durationR": "4:53", 
+                    "duration": 293, 
+                    "start": 202
+                }, 
+                {
+                    "track": "3", 
+                    "title": "3. Molto allegro", 
+                    "durationR": "2:15", 
+                    "duration": 135, 
+                    "start": 495
+                }, 
+                {
+                    "track": "4", 
+                    "title": "4. Andante con variazioni", 
+                    "durationR": "6:11", 
+                    "duration": 371, 
+                    "start": 630
+                }, 
+                {
+                    "track": "5", 
+                    "title": "5. Allegro, scherzando e vivace", 
+                    "durationR": "1:59", 
+                    "duration": 119, 
+                    "start": 1001
+                }, 
+                {
+                    "track": "6", 
+                    "title": "6. Adagio", 
+                    "durationR": "1:13", 
+                    "duration": 73, 
+                    "start": 1120
+                }, 
+                {
+                    "track": "7", 
+                    "title": "7. Allegro, vivace e disinvolto - Presto", 
+                    "durationR": "4:37", 
+                    "duration": 277, 
+                    "start": 1193
+                }
+            ], 
+            "title": "Serenade for flute, violin & viola in D major, Op. 25"
+        }, 
+        {
+            "movements": [
+                {
+                    "track": "8", 
+                    "title": "1. I bin a Tyroler Bua. Austrian", 
+                    "durationR": "5:04", 
+                    "duration": 304, 
+                    "start": 1470
+                }, 
+                {
+                    "track": "9", 
+                    "title": "2. Bonnie Laddie, Highland Laddie. Scottish", 
+                    "durationR": "2:48", 
+                    "duration": 168, 
+                    "start": 1774
+                }, 
+                {
+                    "track": "10", 
+                    "title": "3. Volkslied aus Kleinru\u00dfland", 
+                    "durationR": "5:08", 
+                    "duration": 308, 
+                    "start": 1942
+                }, 
+                {
+                    "track": "11", 
+                    "title": "4. St Patrick's Day. Irish", 
+                    "durationR": "5:15", 
+                    "duration": 315, 
+                    "start": 2250
+                }, 
+                {
+                    "track": "12", 
+                    "title": "5. A Madel, ja a Madel. Austrian", 
+                    "durationR": "7:14", 
+                    "duration": 434, 
+                    "start": 2565
+                }, 
+                {
+                    "track": "13", 
+                    "title": "6. Merch Megan. Welsh", 
+                    "durationR": "5:12", 
+                    "duration": 312, 
+                    "start": 2999
+                }, 
+                {
+                    "track": "14", 
+                    "title": "7. Sch\u00f6ne Minka. Russian", 
+                    "durationR": "6:12", 
+                    "duration": 372, 
+                    "start": 3311
+                }, 
+                {
+                    "track": "15", 
+                    "title": "8. O Mary, at the Window Be. Scottish", 
+                    "durationR": "2:24", 
+                    "duration": 144, 
+                    "start": 3683
+                }, 
+                {
+                    "track": "16", 
+                    "title": "9. Oh, Thou are the Lad of my Heart. Scottish", 
+                    "durationR": "4:55", 
+                    "duration": 295, 
+                    "start": 3827
+                }, 
+                {
+                    "track": "17", 
+                    "title": "10. The Highland Watch. Scottish", 
+                    "durationR": "3:55", 
+                    "duration": 235, 
+                    "start": 4122
+                }
+            ], 
+            "title": "National Airs (10) with variations for flute/violin & piano, Op. 107"
+        }
+    ], 
+    "catalogue": "454247-2", 
+    "cd": "2"
+}

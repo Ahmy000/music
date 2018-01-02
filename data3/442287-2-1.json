@@ -1,0 +1,63 @@
+{
+    "title": "Track Listing - Disc 1", 
+    "performances": [
+        {
+            "movements": [], 
+            "title": "No Performance"
+        }, 
+        {
+            "movements": [
+                {
+                    "track": "1", 
+                    "title": "Allegro ma non troppo", 
+                    "durationR": "23:59", 
+                    "duration": 1439, 
+                    "start": 0
+                }, 
+                {
+                    "track": "2", 
+                    "title": "Larghetto", 
+                    "durationR": "8:55", 
+                    "duration": 535, 
+                    "start": 1439
+                }, 
+                {
+                    "track": "3", 
+                    "title": "Rondo, Allegro", 
+                    "durationR": "9:05", 
+                    "duration": 545, 
+                    "start": 1974
+                }
+            ], 
+            "title": "Violin Concerto in D major, Op. 61"
+        }, 
+        {
+            "movements": [
+                {
+                    "track": "4", 
+                    "title": "Allegro moderato", 
+                    "durationR": "18:00", 
+                    "duration": 1080, 
+                    "start": 2519
+                }, 
+                {
+                    "track": "5", 
+                    "title": "Canzonetta, Andante", 
+                    "durationR": "6:10", 
+                    "duration": 370, 
+                    "start": 3599
+                }, 
+                {
+                    "track": "6", 
+                    "title": "Finale, Allegro vivacissimo", 
+                    "durationR": "9:46", 
+                    "duration": 586, 
+                    "start": 3969
+                }
+            ], 
+            "title": "Violin Concerto in D major, Op. 35"
+        }
+    ], 
+    "catalogue": "442287-2", 
+    "cd": "1"
+}

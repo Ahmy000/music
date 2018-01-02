@@ -1,0 +1,63 @@
+{
+    "title": "Track Listing - Disc 1", 
+    "performances": [
+        {
+            "movements": [], 
+            "title": "No Performance"
+        }, 
+        {
+            "movements": [
+                {
+                    "track": "1", 
+                    "title": "Allegro con brio", 
+                    "durationR": "17:52", 
+                    "duration": 1072, 
+                    "start": 0
+                }, 
+                {
+                    "track": "2", 
+                    "title": "Largo", 
+                    "durationR": "10:27", 
+                    "duration": 627, 
+                    "start": 1072
+                }, 
+                {
+                    "track": "3", 
+                    "title": "Rondo, Allegro scherzando", 
+                    "durationR": "8:56", 
+                    "duration": 536, 
+                    "start": 1699
+                }
+            ], 
+            "title": "Piano Concerto No. 1 in C major, Op. 15"
+        }, 
+        {
+            "movements": [
+                {
+                    "track": "4", 
+                    "title": "Allegro con brio", 
+                    "durationR": "16:35", 
+                    "duration": 995, 
+                    "start": 2235
+                }, 
+                {
+                    "track": "5", 
+                    "title": "Largo", 
+                    "durationR": "10:51", 
+                    "duration": 651, 
+                    "start": 3230
+                }, 
+                {
+                    "track": "6", 
+                    "title": "Rondo, Allegro", 
+                    "durationR": "8:55", 
+                    "duration": 535, 
+                    "start": 3881
+                }
+            ], 
+            "title": "Piano Concerto No. 3 in C minor, Op. 37"
+        }
+    ], 
+    "catalogue": "442577-2", 
+    "cd": "1"
+}

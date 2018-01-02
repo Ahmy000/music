@@ -1,0 +1,145 @@
+{
+    "title": "Track Listing - Disc 1", 
+    "performances": [
+        {
+            "movements": [], 
+            "title": "No Performance"
+        }, 
+        {
+            "movements": [
+                {
+                    "track": "1", 
+                    "title": "1. Entrata. Allegro", 
+                    "durationR": "3:24", 
+                    "duration": 204, 
+                    "start": 0
+                }, 
+                {
+                    "track": "2", 
+                    "title": "2. Tempo ordinario d'un minuetto", 
+                    "durationR": "4:50", 
+                    "duration": 290, 
+                    "start": 204
+                }, 
+                {
+                    "track": "3", 
+                    "title": "3. Allegro molto", 
+                    "durationR": "2:03", 
+                    "duration": 123, 
+                    "start": 494
+                }, 
+                {
+                    "track": "4", 
+                    "title": "4. Andante con variazioni", 
+                    "durationR": "6:36", 
+                    "duration": 396, 
+                    "start": 617
+                }, 
+                {
+                    "track": "5", 
+                    "title": "5. Allegro, scherzando e vivace", 
+                    "durationR": "1:50", 
+                    "duration": 110, 
+                    "start": 1013
+                }, 
+                {
+                    "track": "6", 
+                    "title": "6. Adagio", 
+                    "durationR": "1:35", 
+                    "duration": 95, 
+                    "start": 1123
+                }, 
+                {
+                    "track": "7", 
+                    "title": "7. Allegro, vivace e disinvolto", 
+                    "durationR": "3:56", 
+                    "duration": 236, 
+                    "start": 1218
+                }
+            ], 
+            "title": "Serenade for flute & piano in D major (arr. of Serenade, Op. 25), Op. 41"
+        }, 
+        {
+            "movements": [
+                {
+                    "track": "8", 
+                    "title": "1. Allegro", 
+                    "durationR": "7:10", 
+                    "duration": 430, 
+                    "start": 1454
+                }, 
+                {
+                    "track": "9", 
+                    "title": "2. Polonaise", 
+                    "durationR": "4:10", 
+                    "duration": 250, 
+                    "start": 1884
+                }, 
+                {
+                    "track": "10", 
+                    "title": "3. Largo", 
+                    "durationR": "4:27", 
+                    "duration": 267, 
+                    "start": 2134
+                }, 
+                {
+                    "track": "11", 
+                    "title": "4. Tema. Allegretto con Variazioni", 
+                    "durationR": "5:28", 
+                    "duration": 328, 
+                    "start": 2401
+                }
+            ], 
+            "title": "Sonata for flute & piano in B flat major, Kinsky-Halm Anh 4"
+        }, 
+        {
+            "movements": [
+                {
+                    "track": "12", 
+                    "title": "1. The Cottage Maid. Welsh", 
+                    "durationR": "2:54", 
+                    "duration": 174, 
+                    "start": 2729
+                }, 
+                {
+                    "track": "13", 
+                    "title": "2. Of Noble Race Was Shinkin. Scottish", 
+                    "durationR": "3:10", 
+                    "duration": 190, 
+                    "start": 2903
+                }, 
+                {
+                    "track": "14", 
+                    "title": "3. A Sch\u00fcsserl und a Reindl. Austrian", 
+                    "durationR": "6:41", 
+                    "duration": 401, 
+                    "start": 3093
+                }, 
+                {
+                    "track": "15", 
+                    "title": "4. The Last Rose of the Summer. Irish", 
+                    "durationR": "3:30", 
+                    "duration": 210, 
+                    "start": 3494
+                }, 
+                {
+                    "track": "16", 
+                    "title": "5. Chiling O'Guirg", 
+                    "durationR": "2:33", 
+                    "duration": 153, 
+                    "start": 3704
+                }, 
+                {
+                    "track": "17", 
+                    "title": "6. English Bulls. Irish", 
+                    "durationR": "3:24", 
+                    "duration": 204, 
+                    "start": 3857
+                }
+            ], 
+            "title": "National Airs (6) with variations for flute/violin & piano, Op. 105"
+        }
+    ], 
+    "catalogue": "454247-2", 
+    "cd": "1"
+}

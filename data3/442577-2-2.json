@@ -1,0 +1,77 @@
+{
+    "title": "Track Listing - Disc 2", 
+    "performances": [
+        {
+            "movements": [], 
+            "title": "No Performance"
+        }, 
+        {
+            "movements": [
+                {
+                    "track": "1", 
+                    "title": "Allegro con brio", 
+                    "durationR": "13:44", 
+                    "duration": 824, 
+                    "start": 0
+                }, 
+                {
+                    "track": "2", 
+                    "title": "Adagio", 
+                    "durationR": "10:26", 
+                    "duration": 626, 
+                    "start": 824
+                }, 
+                {
+                    "track": "3", 
+                    "title": "Rondo, Molto allegro", 
+                    "durationR": "5:59", 
+                    "duration": 359, 
+                    "start": 1450
+                }
+            ], 
+            "title": "Piano Concerto No. 2 in B flat major, Op. 19"
+        }, 
+        {
+            "movements": [
+                {
+                    "track": "4", 
+                    "title": "Allegro moderato", 
+                    "durationR": "18:34", 
+                    "duration": 1114, 
+                    "start": 1809
+                }, 
+                {
+                    "track": "5", 
+                    "title": "Andante con moto", 
+                    "durationR": "5:30", 
+                    "duration": 330, 
+                    "start": 2923
+                }, 
+                {
+                    "track": "6", 
+                    "title": "Rondo, Vivace", 
+                    "durationR": "9:13", 
+                    "duration": 553, 
+                    "start": 3253
+                }, 
+                {
+                    "track": "7", 
+                    "title": "Romance for violin & orchestra No. 1 in G major, Op. 40", 
+                    "durationR": "6:57", 
+                    "duration": 417, 
+                    "start": 3806
+                }, 
+                {
+                    "track": "8", 
+                    "title": "Romance for violin & orchestra No. 2 in F major, Op. 50", 
+                    "durationR": "7:50", 
+                    "duration": 470, 
+                    "start": 4223
+                }
+            ], 
+            "title": "Piano Concerto No. 4 in G major, Op. 58"
+        }
+    ], 
+    "catalogue": "442577-2", 
+    "cd": "2"
+}

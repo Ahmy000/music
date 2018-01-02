@@ -1,0 +1,77 @@
+{
+    "title": "Track Listing - Disc 1", 
+    "performances": [
+        {
+            "movements": [], 
+            "title": "No Performance"
+        }, 
+        {
+            "movements": [
+                {
+                    "track": "1", 
+                    "title": "Movement 1", 
+                    "durationR": "13:36", 
+                    "duration": 816, 
+                    "start": 0
+                }, 
+                {
+                    "track": "2", 
+                    "title": "Movement 2", 
+                    "durationR": "11:54", 
+                    "duration": 714, 
+                    "start": 816
+                }, 
+                {
+                    "track": "3", 
+                    "title": "Movement 3", 
+                    "durationR": "12:12", 
+                    "duration": 732, 
+                    "start": 1530
+                }, 
+                {
+                    "track": "4", 
+                    "title": "Movement 4", 
+                    "durationR": "8:44", 
+                    "duration": 524, 
+                    "start": 2262
+                }
+            ], 
+            "title": "String Quartet No. 1 in D minor, Op. 7"
+        }, 
+        {
+            "movements": [
+                {
+                    "track": "5", 
+                    "title": "I. Massig", 
+                    "durationR": "7:05", 
+                    "duration": 425, 
+                    "start": 2786
+                }, 
+                {
+                    "track": "6", 
+                    "title": "II. Sehr rasch", 
+                    "durationR": "7:11", 
+                    "duration": 431, 
+                    "start": 3211
+                }, 
+                {
+                    "track": "7", 
+                    "title": "III. Litanei. Langsam", 
+                    "durationR": "5:31", 
+                    "duration": 331, 
+                    "start": 3642
+                }, 
+                {
+                    "track": "8", 
+                    "title": "IV. Entruckung. Sehr langsam", 
+                    "durationR": "10:35", 
+                    "duration": 635, 
+                    "start": 3973
+                }
+            ], 
+            "title": "String Quartet No. 2 for soprano & string quartet in F sharp minor, Op. 10"
+        }
+    ], 
+    "catalogue": "464046-2", 
+    "cd": "1"
+}

@@ -1,0 +1,70 @@
+{
+    "title": "Track Listing - Disc 2", 
+    "performances": [
+        {
+            "movements": [], 
+            "title": "No Performance"
+        }, 
+        {
+            "movements": [
+                {
+                    "track": "1", 
+                    "title": "Allegro molto appassionato", 
+                    "durationR": "12:03", 
+                    "duration": 723, 
+                    "start": 0
+                }, 
+                {
+                    "track": "2", 
+                    "title": "Andante", 
+                    "durationR": "7:27", 
+                    "duration": 447, 
+                    "start": 723
+                }, 
+                {
+                    "track": "3", 
+                    "title": "Allegro non troppo - Allegro molto vivace", 
+                    "durationR": "6:37", 
+                    "duration": 397, 
+                    "start": 1170
+                }
+            ], 
+            "title": "Violin Concerto in E minor, Op. 64"
+        }, 
+        {
+            "movements": [
+                {
+                    "track": "4", 
+                    "title": "Allegro non troppo", 
+                    "durationR": "22:42", 
+                    "duration": 1362, 
+                    "start": 1567
+                }, 
+                {
+                    "track": "5", 
+                    "title": "Adagio", 
+                    "durationR": "8:45", 
+                    "duration": 525, 
+                    "start": 2929
+                }, 
+                {
+                    "track": "6", 
+                    "title": "Allegro giocoso, ma non troppo vivace", 
+                    "durationR": "8:11", 
+                    "duration": 491, 
+                    "start": 3454
+                }, 
+                {
+                    "track": "7", 
+                    "title": "Romance for violin & orchestra No. 2 in F major, Op. 50", 
+                    "durationR": "7:54", 
+                    "duration": 474, 
+                    "start": 3945
+                }
+            ], 
+            "title": "Violin Concerto in D major, Op. 77"
+        }
+    ], 
+    "catalogue": "442287-2", 
+    "cd": "2"
+}
