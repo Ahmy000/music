@@ -1,0 +1,66 @@
+{
+    "title": "Mozart: 250th Piona Concertos-CD6", 
+    "performances": [
+        {
+            "movements": [
+                {
+                    "track": "1", 
+                    "title": "1. Allegro vivace", 
+                    "durationR": "12:08", 
+                    "duration": 728, 
+                    "start": 0
+                }, 
+                {
+                    "track": "2", 
+                    "title": "2. Andante un poco sostenuto", 
+                    "durationR": "9:21", 
+                    "duration": 561, 
+                    "start": 728
+                }, 
+                {
+                    "track": "3", 
+                    "title": "3. Allegro vivace", 
+                    "durationR": "7:49", 
+                    "duration": 469, 
+                    "start": 1289
+                }
+            ], 
+            "title": "Concerto No. 18 in B flat major, K 456"
+        }, 
+        {
+            "movements": [
+                {
+                    "track": "4", 
+                    "title": "1. Allegro", 
+                    "durationR": "11:44", 
+                    "duration": 704, 
+                    "start": 1758
+                }, 
+                {
+                    "track": "5", 
+                    "title": "2. Allegretto", 
+                    "durationR": "8:02", 
+                    "duration": 482, 
+                    "start": 2462
+                }, 
+                {
+                    "track": "6", 
+                    "title": "3. Allegro assai", 
+                    "durationR": "7:36", 
+                    "duration": 456, 
+                    "start": 2944
+                }, 
+                {
+                    "track": "7", 
+                    "title": "Rondo in D major, K 382", 
+                    "durationR": "10:08", 
+                    "duration": 608, 
+                    "start": 3400
+                }
+            ], 
+            "title": "Concerto No. 19 in F major, K 459"
+        }
+    ], 
+    "catalogue": "256462332-2", 
+    "cd": "6"
+}

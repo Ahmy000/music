@@ -86,7 +86,10 @@ def fetchAlbumInfo(album):
       disc["catalogue"] = album["catalogue"]
       match = re.search("([0-9]+)", disc["title"])
       if match is None:  outputJson = album['catalogue'] + ".json"
-      else:  outputJson = album['catalogue'] + "-" + match.group(1) +  ".json"; disc['cd'] = match.group(1)
+      else:  
+          outputJson = album['catalogue'] + "-" + match.group(1) +  ".json"; 
+          disc['cd'] = match.group(1)
+          disc['title'] = album['title'] + "-CD" + disc['cd']
       with open(outputJson, 'w') as outfile:
           json.dump(disc, outfile, indent=4, sort_keys=False)
 #end
